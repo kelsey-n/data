@@ -1,0 +1,21 @@
+demographic,demographic_group,Snapchat,TikTok,LinkedIn,WhatsApp,YouTube
+Total,Total,25,21,28,23,81
+Gender,Men,22,17,31,26,82
+Gender,Women,28,24,26,21,80
+Race/Ethnicity,White,23,18,29,16,79
+Race/Ethnicity,Black,26,30,27,23,84
+Race/Ethnicity,Hispanic,31,31,19,46,85
+Age,18-29,65,48,30,24,95
+Age,30-49,24,22,36,30,91
+Age,50-64,12,14,33,23,83
+Age,65+,2,4,11,10,49
+Income,<$30K,25,22,12,23,75
+Income,"$30K-$49,999",27,29,21,20,83
+Income,"$50K-$74,999",29,20,21,19,79
+Income,$75K+,28,20,50,29,90
+Education,HS or less,21,21,10,20,70
+Education,Some college,32,24,28,16,86
+Education,College+,23,19,51,33,89
+Location,Urban,28,24,30,28,84
+Location,Suburban,25,20,33,23,81
+Location,Rural,18,16,15,9,74
