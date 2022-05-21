@@ -1,0 +1,968 @@
+,Ticker,Company Name,Country,Sector,Overall ESG RATING,Overall ESG SCORE,Environmental SCORE,Social SCORE,Governance SCORE
+0,AAL,ANGLO AMERICAN CAPITAL PLC,GB,Metals and Mining - Non-Precious Metals,A,7.1,4.0,5.5,6.3
+253,AAON,"AAON, INC",US,Building Products,A,7.1,5.0,7.0,5.6
+316,ABBV,ABBVIE INC,US,Biotechnology,BBB,4.8,7.7,4.8,3.8
+569,ABC,ABCAM PLC,GB,Health Care Equipment & Supplies,A,6.3,7.8,5.6,5.9
+570,ABC,ADBRI LIMITED,AU,Construction Materials,BBB,5.7,1.7,5.2,6.0
+1075,ABMD,"ABIOMED, INC",US,Health Care Equipment & Supplies,AA,7.4,6.5,7.6,4.9
+1328,ABT,ABBOTT LABORATORIES,US,Health Care Equipment & Supplies,BB,4.2,10.0,5.2,5.4
+1329,ABT,CFR PHARMACEUTICALS SA,CL,Health Care Equipment & Supplies,BB,4.2,10.0,5.2,5.4
+1834,ACAD,ACADIA PHARMACEUTICALS INC,US,Biotechnology,BBB,4.5,3.1,4.4,5.2
+1835,ACAD,AcadeMedia AB,SE,Diversified Consumer Services,AAA,10.0,7.2,6.0,7.0
+2340,ACC,ACC LIMITED,IN,Construction Materials,B,1.6,2.0,2.6,2.6
+2341,ACC,Aker Carbon Capture ASA,NO,Commercial Services & Supplies,BBB,5.5,6.3,3.9,6.7
+2846,ACGL,ARCH CAPITAL GROUP LTD,BM,Property & Casualty Insurance,BBB,4.5,2.4,4.7,6.1
+2847,ACGL,Somers Group Holdings Ltd,BM,Multi-Line Insurance & Brokerage,BBB,4.5,2.4,4.7,6.1
+3352,ACHC,"ACADIA HEALTHCARE COMPANY, INC",US,Health Care Providers & Services,A,7.0,6.5,5.2,6.3
+3353,ACI,"ALBERTSONS COMPANIES, INC",US,Retail - Food & Staples,B,2.7,1.9,2.9,6.2
+3418,ACM,AECOM,US,Construction & Engineering,AA,7.5,7.4,4.6,5.4
+3671,ACN,ACCENTURE PUBLIC LIMITED COMPANY,IE,Software & Services,AA,7.6,7.5,4.1,5.3
+3924,ADC,AGREE REALTY CORPORATION,US,Real Estate Management & Services,BB,2.9,3.9,3.5,5.2
+4115,ADI,"MAXIM INTEGRATED PRODUCTS, INC",US,Semiconductors & Semiconductor Equipment,A,7.0,5.1,6.4,5.5
+4368,ADM,ADMIRAL GROUP PLC,GB,Property & Casualty Insurance,A,7.0,4.1,3.8,7.7
+4621,ADP,AEROPORTS DE PARIS SA,FR,Transportation Infrastructure,A,7.0,9.7,9.5,2.6
+4874,AEP,AEP TEXAS INC,US,Utilities,AA,7.5,7.2,6.6,6.1
+4875,AEP,INDIANA MICHIGAN POWER COMPANY,US,Utilities,A,5.8,5.4,6.6,5.8
+4876,AEP,KENTUCKY POWER COMPANY,US,Utilities,A,7.1,7.0,7.1,6.2
+4877,AEP,OHIO POWER COMPANY,US,Utilities,AA,7.4,7.0,6.6,6.2
+4878,AEP,SOUTHWESTERN ELECTRIC POWER COMPANY,US,Utilities,BBB,4.6,4.3,6.6,6.1
+6139,AES,IPALCO ENTERPRISES INC,US,Utilities,A,6.0,6.0,4.9,6.3
+6140,AES,THE AES CORPORATION,US,Utilities,AA,8.2,6.9,7.9,6.9
+6645,AFG,AUSTRALIAN FINANCE GROUP LTD,AU,Banks,AA,7.3,3.5,4.4,7.7
+6898,AGN,AEGON NV,NL,Life & Health Insurance,AA,8.4,8.4,4.8,7.7
+6987,AGO,ASSURED GUARANTY LTD,BM,Property & Casualty Insurance,BB,3.3,3.6,3.5,5.8
+7048,AGR,AGRANA Beteiligungs-Aktiengesellschaft,AT,Food Products,A,5.9,2.6,6.5,4.6
+7049,AGR,ASSURA PLC,GB,Real Estate Management & Services,A,6.3,4.9,3.5,7.7
+7050,AGR,NEW YORK STATE ELECTRIC & GAS CORPORATION,US,Utilities,AA,7.5,7.7,5.6,6.2
+7051,AGR,ROCHESTER GAS AND ELECTRIC CORPORATION,US,Utilities,AAA,8.6,8.8,7.1,5.9
+8060,AL,AIR LEASE CORPORATION,US,Trading Companies & Distributors,BBB,4.3,6.2,3.4,5.0
+8249,ALB,"Corporacion Financiera Alba, SA",ES,Diversified Financials,BBB,5.2,8.7,3.2,5.0
+8502,ALK,Alkane Resources Ltd,AU,Metals and Mining - Precious Metals,BB,3.5,2.0,4.6,5.1
+8755,ALL,ARISTOCRAT LEISURE LIMITED,AU,Casinos & Gaming,AA,8.1,6.1,6.1,7.3
+8756,ALL,THE ALLSTATE CORPORATION,US,Property & Casualty Insurance,BBB,5.7,2.5,4.8,6.1
+9261,ALLE,ALLEGION PUBLIC LIMITED COMPANY,IE,Building Products,AA,8.1,6.1,5.5,6.3
+9514,ALSN,ALSO Holding AG,CH,"Electronic Equipment, Instruments & Components",BB,4.2,2.9,2.4,6.4
+9767,AMG,AMG Advanced Metallurgical Group NV,NL,Metals and Mining - Non-Precious Metals,A,6.9,4.6,4.6,6.0
+9956,AMP,AMP LIMITED,AU,Asset Management & Custody Banks,A,6.1,10.0,5.5,5.1
+9957,AMP,AMPLIFON SPA,IT,Health Care Providers & Services,AA,8.1,9.7,6.7,6.1
+10462,AMZN,"WHOLE FOODS MARKET, INC",US,Retail - Consumer Discretionary,BBB,5.6,5.5,5.0,4.7
+10715,ANTM,PT Aneka Tambang Tbk,ID,Metals and Mining - Precious Metals,BBB,4.3,3.5,6.0,4.0
+10968,AON,Aon plc,IE,Multi-Line Insurance & Brokerage,BB,4.1,7.0,3.5,5.3
+11221,AOS,A O SMITH CORPORATION,US,Building Products,A,6.8,7.1,5.5,3.0
+11474,APA,APA Group,AU,Utilities,AAA,9.8,5.6,10.0,7.8
+11475,APA,Camelot Finance SA,LU,Professional Services,BBB,4.6,8.3,4.5,5.8
+11854,APH,ALLIANCE PHARMA PLC,GB,Pharmaceuticals,A,6.9,2.4,5.3,5.8
+11855,APH,MTS SYSTEMS CORPORATION,US,"Electronic Equipment, Instruments & Components",A,7.1,4.2,5.3,5.5
+12360,APO,"THE FRESH MARKET, INC",US,Retail - Food & Staples,B,1.5,10.0,5.7,3.1
+12489,APPS,"APPLUS SERVICES, SA",ES,Professional Services,AA,8.2,9.0,6.9,6.4
+12490,APTV,APTIV PLC,IE,Auto Components,AA,8.3,5.4,4.4,6.6
+12743,ARD,ARDAGH PACKAGING FINANCE PLC,IE,Containers & Packaging,B,1.7,6.1,3.1,3.8
+12867,ARE,GROUPE AECON INC,CA,Construction & Engineering,AA,8.3,3.7,5.6,6.7
+13120,ASH,HERCULES LLC,US,Specialty Chemicals,BB,4.1,4.2,1.3,5.8
+13373,ATH,ATHABASCA OIL CORPORATION,CA,Oil & Gas Exploration & Production,BBB,5.5,2.4,6.9,5.6
+13626,ATO,ATOS SE,FR,Software & Services,AA,8.57,6.7,7.2,5.0
+13879,ATUS,ALTICE US FINANCE I CORPORATION,LU,Media & Entertainment,BB,2.9,7.0,4.2,3.4
+14132,AXS,AXIS CAPITAL HOLDINGS LIMITED,BM,Property & Casualty Insurance,BB,3.3,3.9,2.6,5.9
+14384,AZEK,THE AZEK COMPANY INC,US,Building Products,A,5.8,4.1,5.5,6.5
+14449,BA,THE BOEING COMPANY,US,Aerospace & Defense,BB,4.0,5.0,2.4,5.5
+14702,BBY,BALFOUR BEATTY PLC,GB,Construction & Engineering,AA,7.7,3.5,6.6,5.6
+14955,BC,BRUNELLO CUCINELLI SPA,IT,"Textiles, Apparel & Luxury Goods",BB,3.8,3.8,2.4,5.3
+15208,BCO,THE BRINKS COMPANY,US,Commercial Services & Supplies,BB,2.9,8.0,2.8,5.5
+15332,BDX,BUDIMEX SPOLKA AKCYJNA,PL,Construction & Engineering,A,6.7,3.5,5.3,5.7
+15585,BEN,BENDIGO AND ADELAIDE BANK LIMITED,AU,Banks,A,6.2,3.3,3.6,7.9
+15586,BEN,BENETEAU SA,FR,Leisure Products,BB,3.9,5.2,4.2,4.7
+16091,BERY,PLIANT CORPORATION,US,Containers & Packaging,BB,3.9,6.6,1.6,6.9
+16344,BG,BAWAG Group AG,AT,Banks,AA,8.5,6.4,5.1,6.5
+16597,BILL,BillerudKorsnas Aktiebolag (publ),SE,Containers & Packaging,AA,7.8,4.9,5.7,7.3
+16726,BK,Astana-finance Joint Stock Company,KZ,Asset Management & Custody Banks,AA,7.6,10.0,5.0,5.5
+16727,BK,The Bank of New York Mellon Corporation,US,Asset Management & Custody Banks,AA,7.6,10.0,5.0,5.5
+17232,BKR,WESTERN ATLAS HOLDINGS LLC,US,Energy Equipment & Services,AA,7.4,8.3,8.8,5.2
+17485,BLD,BORAL LIMITED,AU,Construction Materials,AA,8.2,5.2,4.5,6.5
+17486,BLD,TOPBUILD CORP,US,Real Estate Development & Diversified Activities,BBB,4.6,3.5,2.9,5.2
+17743,BLKB,Basellandschaftliche Kantonalbank,CH,Banks,A,7.1,5.5,4.1,5.3
+17867,BMY,Bloomsbury Publishing PLC,GB,Media & Entertainment,AA,8.5,4.0,4.5,8.4
+18120,BPOP,"POPULAR, INC",PR,Banks,BB,4.1,2.2,3.0,5.7
+18245,BWA,"OLD REMCO HOLDINGS, LLC",US,Auto Components,A,7.0,6.4,3.9,5.8
+18498,BYD,Boyd Group Services Inc,CA,Commercial Services & Supplies,A,6.3,6.4,1.8,7.8
+18563,C,STRUCTURED PRODUCTS CORP,US,Diversified Financials,A,7.0,8.7,3.9,5.0
+18816,CAT,Caterpillar International Finance Designated Activity Company,IE,Construction & Farm Machinery & Heavy Trucks,A,6.9,5.6,6.8,4.2
+18817,CAT,LES SERVICES FINANCIERS CATERPILLAR LIMITEE,CA,Consumer Finance,A,6.9,5.6,6.8,4.2
+19322,CC,THE CHEMOURS COMPANY,US,Diversified Chemicals,BBB,5.2,4.1,3.2,6.4
+19386,CCL,CARNIVAL PLC,GB,Hotels & Travel,B,1.7,3.1,3.1,4.3
+19387,CCL,COCA-COLA EUROPACIFIC PARTNERS API PTY LTD,AU,Beverages,AAA,8.6,7.1,5.8,5.4
+19892,CE,CREDITO EMILIANO SPA,IT,Banks,A,7.1,2.2,3.9,5.6
+20145,CF,Canaccord Genuity Group Inc,CA,Investment Banking & Brokerage,BBB,5.7,2.0,3.3,6.3
+20398,CFR,COMPAGNIE FINANCIERE RICHEMONT SA,CH,"Textiles, Apparel & Luxury Goods",AA,7.4,7.4,5.6,4.5
+20651,CG,Centerra Gold Inc,CA,Metals and Mining - Precious Metals,B,2.8,2.3,3.6,4.2
+20652,CG,THE CARLYLE GROUP INC,US,Asset Management & Custody Banks,BBB,5.0,10.0,6.4,2.5
+20909,CHTR,TIME WARNER CABLE ENTERPRISES LLC,US,"Broadcasting, Cable & Satellite",B,2.3,8.0,3.7,3.3
+21162,CIM,CIMIC FINANCE (USA) PTY LTD,AU,Construction & Engineering,BBB,5.2,5.1,7.3,4.4
+21223,CLX,THE CLOROX COMPANY,US,Household & Personal Products,AA,8.0,5.4,5.9,7.0
+21476,CMA,CIMENTS DU MAROC SA,MA,Construction Materials,B,2.4,2.8,2.5,3.0
+21729,CMCSA,"NBCUNIVERSAL MEDIA, LLC",US,Media,BB,3.7,10.0,4.3,4.5
+21730,CMCSA,SKY GROUP FINANCE LIMITED,GB,"Broadcasting, Cable & Satellite",BBB,5.0,10.0,4.8,4.8
+22235,CNA,CENTRICA PLC,GB,Utilities,AA,7.7,8.4,0.8,7.5
+22488,CNP,CNP ASSURANCES SA,FR,Life & Health Insurance,AAA,9.7,8.5,6.8,4.7
+22489,CNP,"VECTREN UTILITY HOLDINGS, INC",US,Utilities,BBB,5.3,4.9,4.2,5.9
+22994,CTRA,PT Ciputra Development Tbk,ID,Real Estate Development & Diversified Activities,BB,4.2,4.2,3.8,4.2
+23247,COO,"THE COOPER COMPANIES, INC",US,Health Care Equipment & Supplies,BBB,5.5,8.2,6.6,4.0
+23500,COP,CompuGroup Medical SE & Co KGaA,DE,Health Care Equipment & Supplies,BBB,5.5,7.7,5.3,5.3
+23753,COR,"Corticeira Amorim, SGPS, SA",PT,Containers & Packaging,A,7.0,6.6,4.4,5.7
+24006,CPRI,Capri Holdings Limited,GB,"Textiles, Apparel & Luxury Goods",BB,3.2,3.2,4.0,4.3
+24068,CR,CREW ENERGY INC,CA,Oil & Gas Exploration & Production,BB,4.0,1.7,5.5,5.4
+24257,WOLF,"Wolfspeed, Inc",US,Semiconductors & Semiconductor Equipment,AA,8.5,6.3,5.5,5.7
+24510,CRI,CHARGEURS SA,FR,"Textiles, Apparel & Luxury Goods",BBB,4.7,4.2,1.6,6.0
+24762,CRL,Carel Industries SpA,IT,Building Products,A,6.5,5.0,6.4,5.4
+25015,CRM,"SALESFORCECOM, INC",US,Software & Services,AA,7.9,6.6,7.0,4.0
+25268,CSL,CSL LIMITED,AU,Biotechnology,A,6.2,5.3,4.3,6.5
+25521,CVS,"OMNICARE, LLC",US,Health Care Providers & Services,A,5.8,10.0,4.0,5.9
+25774,CVX,"NOBLE ENERGY, INC",US,Oil & Gas Exploration & Production,BBB,4.6,4.3,6.0,4.8
+26027,CWK,CRANSWICK PLC,GB,Food Products,AA,8.1,3.3,6.0,7.3
+26028,CWK,CUSHMAN & WAKEFIELD PLC,GB,Real Estate Management & Services,A,6.3,4.6,6.8,6.1
+26275,CZR,WILLIAM HILL LIMITED,GB,Casinos & Gaming,A,6.7,7.5,5.8,5.1
+26465,D,SCANA CORPORATION,US,Utilities,AA,8.1,7.9,5.1,5.9
+26466,D,Virginia Electric and Power Company,US,Utilities,A,5.8,5.8,5.7,6.1
+26971,DAL,DATALOGIC SPA,IT,"Electronic Equipment, Instruments & Components",BBB,4.5,4.6,4.3,4.1
+27224,DG,VINCI SA,FR,Construction & Engineering,A,6.0,5.1,2.8,6.8
+27477,DGX,QUEST DIAGNOSTICS INCORPORATED,US,Health Care Providers & Services,AA,7.9,9.2,6.1,6.0
+27730,DIS,"TFCF AMERICA, INC",US,Media & Entertainment,A,5.8,10.0,4.8,4.9
+27983,WBD,WEBUILD SPA,IT,Construction & Engineering,A,6.9,5.0,6.3,5.2
+28236,DNB,DNB BANK ASA,NO,Banks,AA,7.5,6.4,4.3,6.3
+28301,DOC,DO & CO Aktiengesellschaft,AT,Commercial Services & Supplies,CCC,1.4,5.5,0.0,4.9
+28302,DOC,PHYSICIANS REALTY TRUST,US,Real Estate Management & Services,BBB,5.0,4.8,4.5,6.4
+28683,DOV,DOVALUE SPA,IT,Diversified Financials,AA,8.57,8.3,5.4,6.5
+28936,DOW,DOWNER EDI LIMITED,AU,Commercial Services & Supplies,AA,7.2,9.6,5.7,7.7
+28937,DOW,ROHM AND HAAS COMPANY,US,Specialty Chemicals,AA,7.8,4.7,4.3,6.6
+28938,DOW,THE DOW CHEMICAL COMPANY,US,Diversified Chemicals,AA,7.8,4.7,4.3,6.6
+29695,DTE,Deutsche Telekom AG,DE,Telecommunication Services,BBB,5.1,10.0,5.4,3.5
+29948,DUK,"Piedmont Natural Gas Company, Inc",US,Utilities,A,6.7,5.1,7.9,5.3
+29949,DUK,"Progress Energy, Inc",US,Utilities,AA,8.1,7.4,8.4,5.6
+30454,EA,Energy Absolute Public Company Limited,TH,Utilities,AA,7.2,8.9,6.7,4.0
+30707,EBS,Erste Group Bank AG,AT,Banks,AA,8.3,8.6,4.2,5.5
+30899,ECL,ENGIE Energia Chile SA,CL,Utilities,BBB,4.8,4.2,7.1,4.9
+31152,EFX,ENERFLEX LTD,CA,Energy Equipment & Services,A,6.6,7.0,7.7,6.2
+31405,EIX,SOUTHERN CALIFORNIA EDISON COMPANY,US,Utilities,BBB,5.1,7.5,3.7,7.2
+31658,EL,ESSILORLUXOTTICA SA,FR,"Textiles, Apparel & Luxury Goods",AA,8.1,7.4,3.6,6.1
+31659,EL,THE ESTEE LAUDER COMPANIES INC,US,Household & Personal Products,A,6.3,7.4,5.1,2.9
+32164,EPR,EUROPRIS ASA,NO,Retail - Consumer Discretionary,A,6.8,3.3,4.2,7.3
+32225,ES,PUBLIC SERVICE COMPANY OF NEW HAMPSHIRE,US,Utilities,AA,8.4,7.1,8.0,6.8
+32478,ESGR,ENSTAR GROUP LIMITED,BM,Multi-Line Insurance & Brokerage,B,2.7,2.5,3.5,5.2
+32731,ESNT,ESSENT GROUP LTD,BM,Banks,BB,4.1,1.2,3.6,5.8
+32732,ESNT,ESSENTRA PLC,GB,Commodity Chemicals,AA,8.1,5.0,0.9,7.7
+33237,ETN,EATON CORPORATION PUBLIC LIMITED COMPANY,IE,Electrical Equipment,BBB,5.6,5.6,4.6,5.0
+33490,ETR,"SYSTEM ENERGY RESOURCES, INC",US,Utilities,A,7.0,6.5,5.4,6.5
+33743,EVR,EVRAZ PLC,GB,Steel,BBB,5.5,2.4,4.4,6.2
+33744,EXC,PECO Energy Company,US,Utilities,AA,7.7,7.9,5.2,5.8
+33745,EXC,PEPCO HOLDINGS LLC,US,Utilities,A,7.0,7.4,5.6,5.5
+33746,EXC,POTOMAC ELECTRIC POWER COMPANY,US,Utilities,AA,7.4,8.3,5.1,5.8
+34503,EXPI,eXp World Holdings Inc,US,Real Estate Management & Services,B,2.4,1.6,4.9,4.8
+34504,F,FCE BANK PLC,GB,Consumer Finance,B,2.0,5.4,2.0,3.0
+34757,FAST,Fastned BV,NL,Utilities,BB,3.9,7.1,1.1,4.3
+35010,FB,"META PLATFORMS, INC",US,Interactive Media & Services,B,2.2,10.0,2.6,2.9
+35263,FE,JERSEY CENTRAL POWER & LIGHT COMPANY,US,Utilities,BBB,4.7,6.2,5.3,4.0
+35264,FE,METROPOLITAN EDISON COMPANY,US,Utilities,BBB,4.7,6.2,5.3,4.2
+35265,FE,"MID-ATLANTIC INTERSTATE TRANSMISSION, LLC",US,Utilities,A,5.8,6.7,5.3,4.2
+35266,FE,MONONGAHELA POWER COMPANY,US,Utilities,B,2.6,3.5,5.3,4.9
+35267,FE,OHIO EDISON COMPANY,US,Utilities,BBB,4.7,6.3,5.3,4.2
+35268,FE,PENNSYLVANIA ELECTRIC COMPANY,US,Utilities,BBB,4.6,6.2,5.3,4.2
+36781,MNDT,"Mandiant, Inc",US,Software & Services,BBB,5.2,4.0,4.4,6.1
+36782,FGEN,FIRST GEN CORPORATION,PH,Utilities,BBB,4.6,6.8,4.6,2.1
+36973,FIS,"WORLDPAY, LLC",US,Software & Services,A,7.1,8.7,5.4,4.9
+37226,FIVE,X5 RETAIL GROUP NV,RU,Retail - Food & Staples,B,2.85,2.1,4.3,4.1
+37479,FLS,FLSMIDTH & CO AS,DK,Construction & Farm Machinery & Heavy Trucks,AA,7.4,4.7,6.0,5.8
+37732,FLT,FLIGHT CENTRE TRAVEL GROUP LIMITED,AU,Hotels & Travel,BBB,5.4,7.5,2.0,5.7
+37985,FR,FIRST MAJESTIC SILVER CORP,CA,Metals and Mining - Precious Metals,BB,4.1,0.9,4.7,6.4
+37986,FR,VALEO SE,FR,Auto Components,AAA,9.0,7.6,5.1,5.2
+38491,FROG,JFROG LTD,US,Software & Services,BBB,5.2,4.4,4.6,5.1
+38492,G,ASSICURAZIONI GENERALI SOCIETA PER AZIONI,IT,Multi-Line Insurance & Brokerage,AA,8.1,7.2,6.2,6.1
+38745,GBCI,"GLACIER BANCORP, INC",US,Banks,BBB,4.9,0.6,4.9,6.6
+38934,GBT,"GLOBAL BLOOD THERAPEUTICS, INC",US,Biotechnology,BB,3.8,5.1,4.2,4.8
+38935,GBT,GUERBET SA,FR,Health Care Equipment & Supplies,A,6.1,9.2,5.3,5.7
+39310,GD,GENERAL DYNAMICS CORPORATION,US,Aerospace & Defense,BBB,5.5,2.8,3.0,5.9
+39563,GDDY,"GO DADDY OPERATING COMPANY, LLC",US,Software & Services,BBB,5.0,6.7,4.5,5.4
+39816,GE,GE CAPITAL AUSTRALIA FUNDING PTY LTD,AU,Industrial Conglomerates,BB,3.3,6.0,1.0,3.6
+39817,GE,GE Capital European Funding Unlimited Company,IE,Industrial Conglomerates,BB,3.3,6.0,1.0,3.6
+39818,GE,GENERAL ELECTRIC COMPANY,US,Industrial Conglomerates,BB,3.3,6.0,1.0,3.6
+39819,GE,SOCIETE DE FINANCEMENT GE CAPITAL DU CANADA,CA,Diversified Financials,BB,3.3,6.0,1.0,3.6
+40828,GGG,GRACO INC,US,Industrial Machinery,A,6.6,4.8,6.2,5.2
+41081,GH,"GUARDANT HEALTH, INC",US,Health Care Equipment & Supplies,BB,3.4,6.0,4.6,4.7
+41334,GILD,"GILEAD SCIENCES, INC",US,Biotechnology,AA,7.6,6.6,5.7,5.7
+41587,GIS,"GENERAL MILLS, INC",US,Food Products,AAA,9.5,5.8,6.2,5.0
+41840,GL,GLOBE LIFE INC,US,Life & Health Insurance,B,2.4,4.0,3.0,4.3
+42093,GLPI,"Gaming and Leisure Properties, Inc",US,Real Estate Management & Services,B,2.4,4.3,2.2,4.6
+42346,GM,GENERAL MOTORS COMPANY,US,Automobiles,BB,3.7,5.8,1.8,5.3
+42347,GM,"GENERAL MOTORS FINANCIAL COMPANY, INC",US,Consumer Finance,BB,3.7,5.8,1.8,5.3
+42852,GMED,"GLOBUS MEDICAL, INC",US,Health Care Equipment & Supplies,BBB,5.3,6.3,6.5,3.2
+43105,GNRC,GENERAC HOLDINGS INC,US,Electrical Equipment,A,6.7,5.9,5.0,5.1
+43358,GNTX,GENTEX CORPORATION,US,Auto Components,BB,4.0,4.1,3.9,4.2
+43611,GO,GROCERY OUTLET HOLDING CORP,US,Retail - Food & Staples,BB,4.1,1.6,4.4,4.4
+43802,GPC,GENUINE PARTS COMPANY,US,Retail - Consumer Discretionary,BBB,5.6,1.8,5.0,5.4
+44055,GPK,GRAPHIC PACKAGING HOLDING COMPANY,US,Containers & Packaging,A,7.0,5.3,4.5,6.5
+44308,GPN,GLOBAL PAYMENTS INC,US,Software & Services,BB,4.0,8.0,3.5,5.2
+44561,GPS,"THE GAP, INC",US,Retail - Consumer Discretionary,AA,8.3,7.5,5.5,3.6
+44814,GRA,W R GRACE & CO-CONN,US,Specialty Chemicals,BBB,5.3,4.4,3.4,6.2
+44939,GS,GOLDMAN SACHS & CO LLC,US,Investment Banking & Brokerage,A,7.13,10.0,6.2,3.1
+45192,GTES,GATES GLOBAL LLC,US,Electrical Equipment,BBB,4.3,3.1,4.9,5.5
+45193,GTES,GATES INDUSTRIAL CORPORATION PLC,US,Industrial Machinery,BBB,4.3,3.1,4.9,5.5
+45314,GWRE,"GUIDEWIRE SOFTWARE, INC",US,Software & Services,A,6.9,5.0,5.3,5.6
+45567,GWW,"W W GRAINGER, INC",US,Trading Companies & Distributors,AAA,9.7,5.8,9.1,6.0
+45820,H,HYATT HOTELS CORPORATION,US,Hotels & Travel,BBB,4.3,5.6,5.1,2.0
+45821,H,HYDRO ONE LIMITED,CA,Utilities,AA,8.4,8.3,6.8,5.5
+46326,HAE,HAEMONETICS CORPORATION,US,Health Care Equipment & Supplies,A,6.7,6.6,6.2,5.3
+46579,HAIN,"THE HAIN CELESTIAL GROUP, INC",US,Food Products,BBB,5.7,3.2,4.8,6.2
+46706,HAL,HALLIBURTON COMPANY,US,Energy Equipment & Services,A,6.0,7.8,5.8,5.2
+46959,HALO,"HALOZYME THERAPEUTICS, INC",US,Biotechnology,BBB,4.5,5.4,3.9,5.7
+47088,HAS,HAYS PLC,GB,Professional Services,AA,7.2,10.0,4.9,7.5
+47089,HAS,"Hasbro, Inc",US,Leisure Products,AAA,10.0,7.9,6.5,6.4
+47594,HASI,"HANNON ARMSTRONG SUSTAINABLE INFRASTRUCTURE CAPITAL, INC",US,Diversified Financials,A,5.9,9.7,2.9,5.7
+47595,HBAN,HUNTINGTON BANCSHARES INCORPORATED,US,Banks,AA,8.4,3.5,4.7,7.3
+47848,HBI,HANESBRANDS INC,US,"Textiles, Apparel & Luxury Goods",AA,8.1,5.1,6.1,5.6
+48101,HCA,"HCA HEALTHCARE, INC",US,Health Care Providers & Services,A,6.5,6.5,5.1,6.8
+48354,HD,"THE HOME DEPOT, INC",US,Retail - Consumer Discretionary,AA,8.5,7.0,5.0,6.2
+48607,HE,"HAWAIIAN ELECTRIC INDUSTRIES, INC",US,Utilities,A,6.1,5.0,5.2,7.0
+48859,HEI,HEICO CORPORATION,US,Aerospace & Defense,BBB,5.0,2.6,5.0,4.4
+48860,HEI,HeidelbergCement AG,DE,Construction Materials,AA,8.4,6.5,3.6,6.7
+49365,HELE,HELEN OF TROY LIMITED,BM,Household Durables,AA,8.3,4.5,5.8,6.4
+49618,HES,HESS CORPORATION,US,Oil & Gas Exploration & Production,AAA,9.5,5.9,7.4,5.1
+49871,HHC,THE HOWARD HUGHES CORPORATION,US,Real Estate Development & Diversified Activities,A,6.8,6.1,4.1,6.9
+49995,HIG,"THE HARTFORD FINANCIAL SERVICES GROUP, INC",US,Multi-Line Insurance & Brokerage,BBB,5.6,4.1,4.5,6.9
+50248,HII,"HUNTINGTON INGALLS INDUSTRIES, INC",US,Aerospace & Defense,AA,8.5,3.0,5.4,7.1
+50501,HIW,"HIGHWOODS PROPERTIES, INC",US,Real Estate Management & Services,BB,3.9,6.9,1.7,5.4
+50753,HLF,HERBALIFE NUTRITION LTD,KY,Household & Personal Products,BB,4.1,2.0,4.2,6.1
+51006,HLI,"HOULIHAN LOKEY, INC",US,Investment Banking & Brokerage,B,2.6,4.4,2.5,3.1
+51198,HLT,HILTON WORLDWIDE HOLDINGS INC,US,Hotels & Travel,A,6.6,6.7,3.8,4.5
+51451,HOG,"HARLEY-DAVIDSON FINANCIAL SERVICES, INC",US,Consumer Finance,A,7.13,7.1,4.8,5.2
+51452,HOG,"HARLEY-DAVIDSON, INC",US,Automobiles,A,7.13,7.1,4.8,5.2
+51957,HOLX,"HOLOGIC, INC",US,Health Care Equipment & Supplies,AA,8.4,10.0,6.5,6.0
+52210,HON,HONEYWELL INTERNATIONAL INC,US,Industrial Conglomerates,AA,7.2,4.1,3.1,6.1
+52463,HP,"HELMERICH & PAYNE, INC",US,Energy Equipment & Services,B,1.8,2.5,5.8,5.8
+52524,HPE,HEWLETT PACKARD ENTERPRISE COMPANY,US,"Technology Hardware, Storage & Peripherals",AA,7.6,6.0,4.9,5.4
+52777,HPP,"HUDSON PACIFIC PROPERTIES, INC",US,Real Estate Management & Services,BBB,5.3,8.0,2.9,4.5
+52965,HPQ,HP INC,US,"Technology Hardware, Storage & Peripherals",AA,7.3,4.3,5.4,5.9
+53218,HQY,"HEALTHEQUITY, INC",US,Health Care Providers & Services,BB,3.3,7.0,2.4,5.5
+53471,HR,HEALTHCARE REALTY TRUST INCORPORATED,US,Real Estate Management & Services,BB,3.9,5.6,3.0,6.3
+53723,HRB,"H & R BLOCK, INC",US,Diversified Consumer Services,BBB,5.2,6.9,3.4,6.8
+53847,HRC,"HILL-ROM HOLDINGS, INC",US,Health Care Equipment & Supplies,A,7.1,6.3,6.4,4.4
+54100,HRL,HORMEL FOODS CORPORATION,US,Food Products,AA,8.1,3.6,6.0,6.3
+54353,HSIC,"HENRY SCHEIN, INC",US,Health Care Providers & Services,BBB,5.3,8.7,6.2,4.3
+54606,HST,"HOST HOTELS & RESORTS, INC",US,Real Estate Management & Services,BBB,4.7,6.4,5.5,4.0
+54859,HSY,THE HERSHEY COMPANY,US,Food Products,A,6.2,3.9,5.2,4.6
+55112,HTA,"HEALTHCARE TRUST OF AMERICA, INC",US,Real Estate Management & Services,B,2.6,4.1,1.2,5.9
+55365,HUBB,HUBBELL INCORPORATED,US,Electrical Equipment,A,5.9,4.6,4.6,7.2
+55618,HUBS,"HUBSPOT, INC",US,Software & Services,AA,7.9,4.7,6.2,5.4
+55871,HUM,HUMANA INC,US,Health Care Providers & Services,A,6.3,10.0,4.6,5.7
+55872,HUM,HUMM GROUP LIMITED,AU,Consumer Finance,A,7.0,8.3,3.7,7.3
+56377,HUN,HUNTSMAN CORPORATION,US,Diversified Chemicals,B,2.0,4.2,2.2,5.9
+56630,HWC,HANCOCK WHITNEY CORPORATION,US,Banks,BBB,5.7,1.5,3.6,6.6
+56691,HWM,HOWMET AEROSPACE INC,US,Aerospace & Defense,BBB,5.3,2.0,4.7,5.0
+56944,HXL,HEXCEL CORPORATION,US,Commodity Chemicals,A,6.5,5.1,1.7,4.7
+57132,HZNP,HORIZON THERAPEUTICS PUBLIC LIMITED COMPANY,IE,Biotechnology,BBB,4.5,2.4,4.4,5.8
+57385,IAA,"IAA, INC",US,Commercial Services & Supplies,AA,8.0,6.7,6.9,6.6
+57638,IAC,IACINTERACTIVECORP,US,Interactive Media & Services,CCC,0.0,6.2,1.3,2.7
+57703,IART,INTEGRA LIFESCIENCES HOLDINGS CORPORATION,US,Health Care Equipment & Supplies,BBB,5.5,7.6,5.8,5.5
+57956,IBKR,"INTERACTIVE BROKERS GROUP, INC",US,Investment Banking & Brokerage,BB,3.4,6.7,3.2,2.0
+58084,IBM,INTERNATIONAL BUSINESS MACHINES CORPORATION,US,Software & Services,AA,7.4,9.1,5.4,5.2
+58337,ICE,"INTERCONTINENTAL EXCHANGE, INC",US,Diversified Financials,A,7.0,9.0,4.9,5.2
+58590,ICPT,"INTERCEPT PHARMACEUTICALS, INC",US,Biotechnology,B,2.4,5.5,2.9,4.5
+58651,ICUI,"ICU MEDICAL, INC",US,Health Care Equipment & Supplies,BBB,5.0,7.6,5.6,4.6
+58904,IDA,"IDACORP, INC",US,Utilities,A,6.7,6.1,4.7,6.9
+59157,IDXX,"IDEXX LABORATORIES, INC",US,Health Care Equipment & Supplies,AA,7.9,7.6,5.9,6.5
+59410,IEX,IDEX CORPORATION,US,Industrial Machinery,AA,7.7,4.5,6.3,6.1
+59663,IFF,INTERNATIONAL FLAVORS & FRAGRANCES INC,US,Specialty Chemicals,AA,7.3,7.1,4.1,5.0
+59916,IIVI,II-VI INCORPORATED,US,"Electronic Equipment, Instruments & Components",BB,4.2,4.1,4.2,4.0
+60108,ILMN,"ILLUMINA, INC",US,Health Care Equipment & Supplies,AA,7.4,10.0,6.5,5.5
+60361,IMVT,Immunovant Inc,US,Biotechnology,A,6.9,7.3,4.5,4.1
+60362,INCY,INCYTE CORPORATION,US,Biotechnology,BBB,4.5,3.6,4.6,5.9
+60615,INFO,IHS INC,US,Professional Services,AA,7.4,10.0,5.9,7.0
+60868,INGR,INGREDION INCORPORATED,US,Food Products,AA,8.4,4.1,6.0,5.1
+61121,INO,"INOVIO PHARMACEUTICALS, INC",US,Biotechnology,A,6.6,7.1,4.5,5.5
+61185,INSP,Inspire Medical Systems Inc,US,Health Care Equipment & Supplies,BB,4.2,6.4,4.8,5.3
+61250,INTC,INTEL CORPORATION,US,Semiconductors & Semiconductor Equipment,AA,8.5,7.5,5.9,5.7
+61503,INTU,INTUIT INC,US,Software & Services,AA,7.9,5.7,5.5,6.1
+61756,INVH,INVITATION HOMES INC,US,Real Estate Management & Services,B,2.4,3.3,1.1,7.1
+62009,IONS,"IONIS PHARMACEUTICALS, INC",US,Biotechnology,BB,3.8,5.1,4.5,3.9
+62262,IOVA,Iovance Biotherapeutics Inc,US,Biotechnology,BBB,5.5,7.1,4.7,4.8
+62454,IP,INTERNATIONAL PAPER COMPANY,US,Containers & Packaging,A,7.0,6.1,4.7,5.8
+62455,IP,INTERPUMP GROUP SPA,IT,Industrial Machinery,BB,2.9,3.6,1.2,5.7
+62960,IPG,"THE INTERPUBLIC GROUP OF COMPANIES, INC",US,Media & Entertainment,A,6.7,10.0,4.6,5.9
+63213,IPGP,IPG PHOTONICS CORPORATION,US,"Electronic Equipment, Instruments & Components",BB,3.9,4.0,4.0,5.3
+63466,IQV,IQVIA HOLDINGS INC,US,Health Care Equipment & Supplies,BBB,5.3,10.0,6.5,4.6
+63719,IR,INGERSOLL RAND INC,US,Industrial Machinery,A,6.0,4.7,3.0,5.9
+63720,IR,TRANE TECHNOLOGIES GLOBAL HOLDING COMPANY LIMITED,US,Industrial Machinery,AAA,9.7,7.6,7.4,5.1
+64225,IRDM,IRIDIUM COMMUNICATIONS INC,US,Telecommunication Services,A,6.6,6.9,5.5,5.8
+64353,IRM,IRON MOUNTAIN INCORPORATED,US,Software & Services,A,7.1,9.7,4.3,6.2
+64606,IRTC,iRhythm Technologies Inc,US,Health Care Equipment & Supplies,BBB,5.5,6.7,5.6,5.2
+64671,ISRG,"INTUITIVE SURGICAL, INC",US,Health Care Equipment & Supplies,BBB,5.3,8.0,4.2,6.5
+64924,IT,"GARTNER, INC",US,Professional Services,A,6.4,7.7,7.3,4.5
+65177,ITT,ITT INC,US,Industrial Machinery,BBB,5.1,3.6,3.7,6.1
+65430,ITW,ILLINOIS TOOL WORKS INC,US,Industrial Machinery,A,6.9,4.8,4.6,6.2
+65683,IVZ,INVESCO FINANCE PLC,GB,Asset Management & Custody Banks,A,6.9,10.0,4.8,6.6
+65684,IVZ,INVESCO LTD,US,Asset Management & Custody Banks,A,6.9,10.0,4.8,6.6
+66189,J,JACOBS ENGINEERING GROUP INC,US,Professional Services,A,6.3,4.9,4.8,5.7
+66442,JAMF,JAMF HOLDING CORP,US,Software & Services,AA,8.3,4.9,7.0,4.8
+66506,JAZZ,JAZZ PHARMACEUTICALS PUBLIC LIMITED COMPANY,IE,Pharmaceuticals,A,6.4,2.4,4.5,6.5
+66759,JBGS,JBG SMITH PROPERTIES,US,Real Estate Management & Services,A,6.1,7.7,4.4,5.7
+67011,JBHT,"J B HUNT TRANSPORT SERVICES, INC",US,Road & Rail Transport,A,6.9,7.7,3.0,4.9
+67264,JBL,JABIL INC,US,"Electronic Equipment, Instruments & Components",BBB,5.2,3.7,3.7,5.6
+67517,JBLU,JETBLUE AIRWAYS CORPORATION,US,Airlines,BBB,5.3,3.9,4.0,4.9
+67579,JCI,JOHNSON CONTROLS INTERNATIONAL PLC,IE,Building Products,AAA,10.0,7.6,6.7,5.6
+67580,JCI,"JOHNSON CONTROLS, INC",US,Building Products,AAA,10.0,7.6,6.7,5.6
+68085,ZD,"ZIFF DAVIS, INC",US,Interactive Media & Services,B,2.6,4.0,2.9,5.4
+68210,JEF,JEFFERIES FINANCE LLC,US,Investment Banking & Brokerage,BB,4.2,0.9,3.0,5.6
+68211,JEF,JEFFERIES FINANCIAL GROUP INC,US,Investment Banking & Brokerage,BB,3.2,8.0,2.7,5.5
+68716,JHG,JANUS HENDERSON GROUP PLC,GB,Asset Management & Custody Banks,AAA,9.4,10.0,5.9,6.3
+68717,JHG,JANUS HENDERSON US (HOLDINGS) INC,US,Asset Management & Custody Banks,AAA,9.4,10.0,5.9,6.3
+69222,JKHY,"JACK HENRY & ASSOCIATES, INC",US,Software & Services,A,6.4,8.7,4.2,6.4
+69475,JLL,JONES LANG LASALLE INCORPORATED,US,Real Estate Management & Services,AA,7.4,5.6,7.8,5.8
+69728,JNJ,JOHNSON & JOHNSON,US,Pharmaceuticals,BBB,5.1,6.3,5.4,2.4
+69981,JNPR,"JUNIPER NETWORKS, INC",US,"Technology Hardware, Storage & Peripherals",A,6.4,2.9,4.9,5.5
+70234,JPM,"Banco JP Morgan, SA Institucion de Banca Multiple, JP Morgan Grupo Financiero",MX,Banks,A,7.1,9.4,4.5,4.4
+70235,JPM,JP MORGAN INTERNATIONAL DERIVATIVES LTD,JE,Banks,A,7.1,9.4,4.5,4.4
+70236,JPM,JPMORGAN CHASE & CO,US,Banks,A,7.1,9.4,4.5,4.4
+70993,JWN,"NORDSTROM, INC",US,Retail - Consumer Discretionary,A,6.6,4.1,5.4,5.3
+71055,K,KELLOGG COMPANY,US,Food Products,AAA,10.0,6.2,6.2,5.6
+71056,K,KINROSS GOLD CORPORATION,CA,Metals and Mining - Precious Metals,A,7.0,2.8,6.6,6.6
+71561,KBH,KB HOME,US,Real Estate Development & Diversified Activities,A,6.1,7.0,5.1,4.8
+71625,KBR,"KBR, INC",US,Professional Services,BB,3.6,10.0,3.3,5.8
+71750,KDP,KEURIG DR PEPPER INC,US,Beverages,AA,7.7,6.4,5.3,5.5
+72003,KEX,KIRBY CORPORATION,US,Marine Transport,B,1.9,4.4,5.9,3.6
+72127,KEY,KEYCORP,US,Banks,BBB,5.7,3.8,3.5,5.9
+72128,KEY,KEYERA CORP,CA,"Oil & Gas Refining, Marketing, Transportation & Storage",A,6.7,4.3,5.7,6.6
+72633,KEYS,"KEYSIGHT TECHNOLOGIES, INC",US,"Electronic Equipment, Instruments & Components",AA,7.7,2.3,7.1,4.9
+72886,KHC,HJ HEINZ FINANCE UK PLC,GB,Food Products,BBB,5.4,4.1,5.0,4.4
+72887,KHC,Kraft Heinz Foods Company,US,Food Products,BBB,5.4,4.1,5.0,4.4
+73392,KIM,KIMCO REALTY CORPORATION,US,Real Estate Management & Services,BBB,5.5,7.0,4.3,5.3
+73393,KIM,WEINGARTEN REALTY INVESTORS,US,Real Estate Management & Services,B,1.8,5.6,2.4,4.2
+73898,KKR,KKR & CO INC,US,Asset Management & Custody Banks,BB,4.2,7.0,4.8,2.9
+73899,KKR,Selecta Group BV,NL,Retail - Food & Staples,BBB,4.6,2.4,6.0,2.6
+74156,KLAC,KLA CORPORATION,US,Semiconductors & Semiconductor Equipment,BBB,5.2,4.9,4.7,4.5
+74409,KMB,KIMBERLY-CLARK CORPORATION,US,Household & Personal Products,AA,8.5,6.2,6.5,4.8
+74662,KMI,"KINDER MORGAN ENERGY PARTNERS, LP",US,"Oil & Gas Refining, Marketing, Transportation & Storage",A,6.5,5.0,5.9,5.3
+74663,KMI,"TENNESSEE GAS PIPELINE COMPANY, LLC",US,"Oil & Gas Refining, Marketing, Transportation & Storage",A,7.0,4.9,6.0,5.9
+75168,KMPR,INFINITY PROPERTY AND CASUALTY CORPORATION,US,Property & Casualty Insurance,BB,4.0,2.5,3.4,6.2
+75421,KNSL,"KINSALE CAPITAL GROUP, INC",US,Property & Casualty Insurance,B,2.3,0.7,2.5,7.2
+75550,KNX,KNIGHT-SWIFT TRANSPORTATION HOLDINGS INC,US,Road & Rail Transport,A,6.9,6.8,3.3,5.6
+75803,KO,THE COCA-COLA COMPANY,US,Beverages,AA,7.9,7.9,5.6,4.4
+76056,KOD,Kodiak Sciences Inc,US,Biotechnology,B,2.4,6.6,4.1,5.1
+76057,KR,THE KROGER CO,US,Retail - Food & Staples,AA,8.1,5.0,5.4,6.0
+76310,KRC,KILROY REALTY CORPORATION,US,Real Estate Management & Services,A,5.8,8.7,3.8,4.4
+76563,KSS,KOHLS CORPORATION,US,Retail - Consumer Discretionary,BBB,5.6,3.3,4.0,5.9
+76689,KSU,"Kansas City Southern de Mexico, SA de CV",MX,Road & Rail Transport,A,6.7,5.6,3.2,6.7
+76690,KSU,THE KANSAS CITY SOUTHERN RAILWAY COMPANY,US,Road & Rail Transport,A,6.7,5.6,3.2,6.7
+77195,KWR,QUAKER CHEMICAL CORPORATION,US,Specialty Chemicals,BB,3.5,3.7,3.5,4.6
+77260,L,LES COMPAGNIES LOBLAW LIMITEE,CA,Retail - Food & Staples,A,6.8,5.2,6.1,3.4
+77261,L,LOEWS CORPORATION,US,Property & Casualty Insurance,BBB,5.0,6.4,3.6,3.7
+77766,LAD,"LITHIA MOTORS, INC",US,Retail - Consumer Discretionary,A,6.6,2.5,5.0,6.3
+77895,LAMR,LAMAR ADVERTISING COMPANY,US,Media & Entertainment,B,1.7,8.3,2.4,3.6
+78148,LANC,LANCASTER COLONY CORPORATION,US,Food Products,BB,3.8,0.9,5.3,5.9
+78401,LAUR,"LAUREATE EDUCATION, INC",US,Diversified Consumer Services,B,1.7,5.4,4.2,4.1
+78462,LDOS,"LEIDOS HOLDINGS, INC",US,Software & Services,AA,8.1,6.6,4.8,7.2
+78463,LDOS,"LEIDOS, INC",US,Aerospace & Defense,AA,8.1,6.6,4.8,7.2
+78968,LEA,LEAR CORPORATION,US,Auto Components,BBB,5.3,3.3,4.3,5.5
+79221,LECO,"LINCOLN ELECTRIC HOLDINGS, INC",US,Industrial Machinery,BBB,4.6,3.4,5.9,4.5
+79474,LEG,LEG Immobilien SE,DE,Real Estate Management & Services,AA,8.2,3.1,9.6,7.1
+79475,LEG,"LEGGETT & PLATT, INCORPORATED",US,Household Durables,A,5.9,7.2,3.4,5.2
+79980,LEN,LENNAR CORPORATION,US,Real Estate Development & Diversified Activities,BB,3.2,5.3,3.1,2.1
+80233,LESL,Leslies Inc,US,Retail - Consumer Discretionary,A,6.3,0.7,5.3,6.3
+80234,LFUS,"LITTELFUSE, INC",US,"Electronic Equipment, Instruments & Components",BBB,5.5,3.6,4.9,4.6
+80487,LH,LABORATORY CORPORATION OF AMERICA HOLDINGS,US,Health Care Providers & Services,A,7.0,10.0,5.1,6.2
+80488,LH,Land and Houses Public Company Limited,TH,Real Estate Development & Diversified Activities,BB,4.1,3.4,5.1,3.8
+80993,LHCG,"LHC GROUP, INC",US,Health Care Providers & Services,AA,8.4,5.9,6.1,6.5
+81246,LHX,"L3HARRIS TECHNOLOGIES, INC",US,Aerospace & Defense,A,6.8,3.3,5.6,5.1
+81499,LII,LENNOX INTERNATIONAL INC,US,Building Products,AA,7.7,5.6,7.3,4.5
+81752,LIN,LINDE INC,US,Specialty Chemicals,A,6.5,5.3,10.0,5.8
+81753,LIN,LINDE PUBLIC LIMITED COMPANY,GB,Specialty Chemicals,A,6.5,5.3,10.0,5.8
+82258,LITE,LUMENTUM HOLDINGS INC,US,"Technology Hardware, Storage & Peripherals",A,5.8,2.1,3.6,6.2
+82511,LKQ,LKQ CORPORATION,US,Retail - Consumer Discretionary,AA,8.3,2.8,6.3,6.7
+82764,LMND,"LEMONADE, INC",US,Property & Casualty Insurance,B,1.7,0.0,3.3,5.9
+82765,LMT,LOCKHEED MARTIN CORPORATION,US,Aerospace & Defense,A,7.0,3.7,4.5,6.2
+83018,LNC,LINCOLN NATIONAL CORPORATION,US,Life & Health Insurance,BBB,5.5,7.5,4.1,5.4
+83271,LNT,INTERSTATE POWER AND LIGHT COMPANY,US,Utilities,AA,7.9,7.0,8.0,6.0
+83272,LNT,WISCONSIN POWER AND LIGHT COMPANY,US,Utilities,A,6.5,6.7,3.1,6.0
+83777,LOPE,"GRAND CANYON EDUCATION, INC",US,Diversified Consumer Services,BBB,4.8,5.9,3.4,6.3
+84029,LOW,"LOWES COMPANIES, INC",US,Retail - Consumer Discretionary,AA,8.5,7.6,4.3,7.0
+84030,LOW,RONA INC,CA,Retail - Consumer Discretionary,AA,8.5,7.6,4.3,7.0
+84535,LPLA,LPL FINANCIAL HOLDINGS INC,US,Investment Banking & Brokerage,A,7.1,5.4,3.7,6.6
+84788,LPSN,"LIVEPERSON, INC",US,Software & Services,BBB,5.7,3.9,5.0,4.9
+84852,LPT,LIBERTY PROPERTY LIMITED PARTNERSHIP,US,Real Estate Management & Services,A,6.6,7.1,6.2,5.1
+84874,LRCX,LAM RESEARCH CORPORATION,US,Semiconductors & Semiconductor Equipment,AA,8.5,2.5,8.6,6.0
+85127,LSCC,LATTICE SEMICONDUCTOR CORPORATION,US,Semiconductors & Semiconductor Equipment,BBB,5.5,3.8,5.5,5.7
+85256,LSI,"LIFE STORAGE, INC",US,Real Estate Management & Services,BB,3.7,3.6,3.7,6.4
+85509,LSTR,"LANDSTAR SYSTEM, INC",US,Road & Rail Transport,AA,7.7,5.0,3.8,6.6
+85762,LULU,LULULEMON ATHLETICA INC,CA,"Textiles, Apparel & Luxury Goods",A,6.0,4.2,4.5,5.8
+86015,LUMN,"LUMEN TECHNOLOGIES, INC",US,Telecommunication Services,A,6.6,10.0,5.7,4.4
+86268,LUV,SOUTHWEST AIRLINES CO,US,Airlines,BB,3.9,2.7,4.6,4.1
+86521,LVS,LAS VEGAS SANDS CORP,US,Casinos & Gaming,BBB,5.1,6.4,4.8,3.5
+86774,LW,"LAMB WESTON HOLDINGS, INC",US,Food Products,A,7.0,3.1,5.1,6.6
+87027,LXP,LXP INDUSTRIAL TRUST,US,Real Estate Management & Services,BB,4.2,4.5,3.6,6.2
+87090,LYB,LyondellBasell Industries NV,GB,Commodity Chemicals,BBB,5.7,3.2,4.4,6.8
+87343,LYFT,"LYFT, INC",US,Road & Rail Transport,BB,4.1,5.0,3.5,3.9
+87596,LYV,"LIVE NATION ENTERTAINMENT, INC",US,Media & Entertainment,BB,4.2,8.9,5.1,3.8
+87849,M,"MACYS, INC",US,Retail - Consumer Discretionary,BBB,5.4,6.0,4.3,6.0
+87910,MA,MASTERCARD INCORPORATED,US,Software & Services,A,6.9,10.0,4.9,4.7
+88163,MAA,"MID-AMERICA APARTMENT COMMUNITIES, INC",US,Real Estate Management & Services,BB,3.2,5.4,1.8,5.5
+88416,MAC,THE MACERICH COMPANY,US,Real Estate Management & Services,BBB,5.0,7.8,4.0,4.2
+88477,MAN,MANPOWERGROUP INC,US,Professional Services,AA,8.2,10.0,6.7,6.4
+88730,MANH,"MANHATTAN ASSOCIATES, INC",US,Software & Services,BBB,5.7,3.6,4.7,5.0
+88983,MANT,MANTECH INTERNATIONAL CORPORATION,US,Software & Services,B,2.6,3.7,3.9,3.0
+89046,MAR,"MARRIOTT INTERNATIONAL, INC",US,Hotels & Travel,BB,4.0,6.3,3.5,2.7
+89299,MAS,MASCO CORPORATION,US,Building Products,A,6.8,5.9,5.6,5.3
+89552,MASI,MASIMO CORPORATION,US,Health Care Equipment & Supplies,BB,3.9,6.5,5.0,4.4
+89805,MAT,"MATTEL, INC",US,Leisure Products,A,5.8,5.3,4.3,6.2
+90058,MCD,MALLINCKRODT PUBLIC LIMITED COMPANY,IE,Pharmaceuticals,CCC,0.0,3.6,3.0,0.5
+90059,MCD,MCDONALDS CORPORATION,US,Restaurants,BBB,5.0,7.4,3.0,4.2
+90564,MCHP,MICROCHIP TECHNOLOGY INCORPORATED,US,Semiconductors & Semiconductor Equipment,BBB,4.8,6.3,4.6,4.3
+90817,MCK,MCKESSON CORPORATION,US,Health Care Providers & Services,BBB,5.6,9.0,2.0,5.6
+91070,MCO,MOODYS CORPORATION,US,Diversified Financials,AA,8.4,10.0,5.0,5.5
+91323,MDB,"MONGODB, INC",US,Software & Services,BBB,4.8,4.3,5.0,4.5
+91576,MDLZ,"Mondelez International, Inc",US,Food Products,BBB,5.7,5.3,4.2,4.5
+91829,MDT,COVIDIEN INTERNATIONAL FINANCE SA,LU,Health Care Equipment & Supplies,BB,2.9,10.0,4.2,5.8
+91830,MDT,MEDTRONIC INC,US,Health Care Equipment & Supplies,BB,2.9,10.0,4.2,5.8
+91831,MDT,MEDTRONIC PUBLIC LIMITED COMPANY,IE,Health Care Equipment & Supplies,BB,2.9,10.0,4.2,5.8
+92588,MDU,"MDU RESOURCES GROUP, INC",US,Industrial Conglomerates,AA,8.56,4.7,6.6,6.3
+92589,MDU,MONTANA-DAKOTA UTILITIES CO,US,Utilities,AA,8.56,4.7,6.6,6.3
+93094,MEDP,"MEDPACE HOLDINGS, INC",US,Health Care Equipment & Supplies,BB,4.2,5.8,5.4,4.3
+93286,MET,"METLIFE, INC",US,Life & Health Insurance,A,7.0,6.7,4.2,6.3
+93287,MET,METROPOLITAN LIFE INSURANCE COMPANY,US,Life & Health Insurance,A,7.0,6.7,4.8,6.8
+93792,MGM,MGM RESORTS INTERNATIONAL,US,Casinos & Gaming,BBB,5.1,6.2,3.7,5.4
+94045,MHK,"MOHAWK INDUSTRIES, INC",US,Household Durables,BB,4.1,8.7,4.6,3.1
+94298,MIDD,THE MIDDLEBY CORPORATION,US,Industrial Machinery,BB,3.7,4.3,3.9,5.3
+94551,MKL,Markel Corporation,US,Property & Casualty Insurance,BB,3.3,3.8,2.5,5.5
+94804,MKSI,"MKS INSTRUMENTS, INC",US,Semiconductors & Semiconductor Equipment,BBB,4.8,4.1,2.7,6.8
+95057,MKTX,MARKETAXESS HOLDINGS INC,US,Diversified Financials,BBB,5.2,8.0,1.8,6.3
+95310,MLM,"MARTIN MARIETTA MATERIALS, INC",US,Construction Materials,A,6.7,4.5,3.2,6.8
+95563,MMC,"MARSH & MCLENNAN COMPANIES, INC",US,Multi-Line Insurance & Brokerage,AA,7.2,10.0,6.4,4.7
+95816,MMM,3M COMPANY,US,Industrial Conglomerates,AAA,8.6,6.0,4.6,6.2
+96069,MMS,"MAXIMUS, INC",US,Software & Services,BBB,4.3,8.7,2.6,5.0
+96070,MMS,Mcmillan Shakespeare Ltd,AU,Professional Services,BBB,5.6,8.3,4.0,7.9
+96575,MNST,MONSTER BEVERAGE CORPORATION,US,Beverages,B,2.6,3.1,3.2,4.2
+96828,MOH,"MOLINA HEALTHCARE, INC",US,Health Care Providers & Services,BBB,4.9,8.0,3.5,6.1
+96829,MOH,MOTOR OIL (HELLAS) CORINTH REFINERIES SA,GR,"Oil & Gas Refining, Marketing, Transportation & Storage",BBB,4.7,5.5,10.0,2.3
+97334,MORN,"MORNINGSTAR, INC",US,Diversified Financials,BBB,5.5,6.7,4.7,5.0
+97587,MOS,THE MOSAIC COMPANY,US,Specialty Chemicals,A,6.7,4.8,5.9,6.1
+97840,MPC,MARATHON PETROLEUM CORPORATION,US,"Oil & Gas Refining, Marketing, Transportation & Storage",A,6.0,5.0,5.1,5.8
+98093,MPW,"MEDICAL PROPERTIES TRUST, INC",US,Real Estate Management & Services,BB,3.2,4.9,3.5,4.8
+98346,MPWR,"MONOLITHIC POWER SYSTEMS, INC",US,Semiconductors & Semiconductor Equipment,B,1.8,4.6,4.4,4.7
+98599,MRCY,"MERCURY SYSTEMS, INC",US,Aerospace & Defense,AAA,10.0,3.4,8.1,6.4
+98852,MRK,"MERCK & CO, INC",US,Pharmaceuticals,A,6.7,7.1,4.8,5.5
+98853,MRK,MERCK Kommanditgesellschaft auf Aktien,DE,Pharmaceuticals,AAA,9.7,7.3,6.9,5.2
+99358,MRNA,"MODERNA, INC",US,Biotechnology,BB,3.1,5.3,4.1,4.7
+99611,MRO,MARATHON OIL CORPORATION,US,Oil & Gas Exploration & Production,BBB,5.5,3.1,5.3,5.6
+99612,MRO,MELROSE INDUSTRIES PLC,GB,Industrial Conglomerates,A,7.14,4.4,4.3,7.2
+99989,MRTX,Mirati Therapeutics Inc,US,Biotechnology,A,6.6,7.3,5.1,5.0
+100242,MRVL,MARVELL TECHNOLOGY GROUP LTD,BM,Semiconductors & Semiconductor Equipment,A,6.7,6.1,4.7,6.4
+100243,MRVL,"MARVELL TECHNOLOGY, INC",US,Semiconductors & Semiconductor Equipment,A,6.7,6.1,4.7,6.4
+100748,MS,MORGAN STANLEY,US,Investment Banking & Brokerage,AA,8.4,10.0,5.8,4.8
+101001,MSA,MSA Safety Incorporated,US,Commercial Services & Supplies,BBB,5.1,8.6,6.5,4.4
+101254,MSFT,MICROSOFT CORPORATION,US,Software & Services,AAA,9.8,8.1,6.9,5.5
+101507,MSGS,MADISON SQUARE GARDEN SPORTS CORP,US,Media & Entertainment,B,2.1,6.3,5.0,0.7
+101760,MSI,"MOTOROLA SOLUTIONS, INC",US,"Technology Hardware, Storage & Peripherals",AA,7.3,3.4,5.5,5.2
+102013,MSM,"MSC INDUSTRIAL DIRECT CO, INC",US,Trading Companies & Distributors,BB,4.0,3.1,7.4,3.7
+102014,MSM,Massmart Holdings Ltd,ZA,Retail - Food & Staples,A,6.5,3.4,4.7,5.9
+102519,MTB,M&T BANK CORPORATION,US,Banks,BB,3.2,1.5,3.5,4.4
+102772,MTCH,"MATCH GROUP, INC",US,Interactive Media & Services,B,2.4,6.2,1.9,4.5
+102961,MTD,METTLER-TOLEDO INTERNATIONAL INC,US,Health Care Equipment & Supplies,AA,8.2,10.0,6.0,6.6
+103214,MTG,MGIC INVESTMENT CORPORATION,US,Banks,A,6.7,5.0,3.4,6.1
+103275,MTH,MERITAGE HOMES CORPORATION,US,Real Estate Development & Diversified Activities,A,6.3,5.3,4.9,5.8
+103276,MTH,MOTUS HOLDINGS LIMITED,ZA,Retail - Consumer Discretionary,A,6.6,3.0,4.8,7.1
+103403,MTN,MTN GROUP LIMITED,ZA,Telecommunication Services,A,6.1,10.0,5.6,4.9
+103404,MTN,"VAIL RESORTS, INC",US,Hotels & Travel,AA,8.3,5.4,4.2,6.0
+103909,MTZ,"MASTEC, INC",US,Construction & Engineering,A,5.8,5.1,3.4,4.9
+103971,MU,"MICRON TECHNOLOGY, INC",US,Semiconductors & Semiconductor Equipment,BBB,5.5,4.6,6.5,5.9
+103972,MU,"Micron Memory Japan, GK",JP,Semiconductors & Semiconductor Equipment,BBB,5.5,4.6,6.5,5.9
+104477,MUR,MURPHY OIL CORPORATION,US,Oil & Gas Exploration & Production,BB,4.0,2.7,6.1,4.2
+104538,MUSA,MURPHY USA INC,US,"Oil & Gas Refining, Marketing, Transportation & Storage",A,7.0,6.2,5.3,5.0
+104729,NATI,NATIONAL INSTRUMENTS CORPORATION,US,Software & Services,AA,8.5,4.3,5.6,5.1
+104982,NBIX,"NEUROCRINE BIOSCIENCES, INC",US,Biotechnology,BBB,4.8,3.1,5.1,5.0
+105235,NCLH,NCL CORPORATION LTD,US,Hotels & Travel,B,2.0,4.7,4.2,3.1
+105425,NCNO,nCino Inc,US,Software & Services,A,6.7,4.9,4.4,5.7
+105490,NDAQ,"NASDAQ, INC",US,Diversified Financials,BBB,5.1,9.0,2.1,6.2
+105743,NDSN,NORDSON CORPORATION,US,Industrial Machinery,BBB,5.4,3.6,5.4,5.8
+105996,NEE,GULF POWER COMPANY,US,Utilities,BB,3.9,6.7,3.9,4.0
+105997,NEE,"NEXTERA ENERGY, INC",US,Utilities,AA,7.2,8.1,5.8,4.9
+106502,NEM,NEMETSCHEK SE,DE,Software & Services,BBB,5.2,4.7,5.6,3.4
+106503,NEM,NEWMONT CORPORATION,US,Metals and Mining - Precious Metals,AA,7.8,3.8,5.6,6.8
+107008,NEO,"NEOGENOMICS, INC",US,Health Care Equipment & Supplies,A,7.1,6.1,6.1,6.0
+107200,NEOG,NEOGEN CORPORATION,US,Health Care Equipment & Supplies,BB,3.2,5.9,4.0,5.3
+107391,NEU,NewMarket Corporation,US,Specialty Chemicals,BB,2.9,3.4,2.0,4.1
+107643,NEWR,"NEW RELIC, INC",US,Software & Services,A,6.4,4.0,5.2,4.8
+107831,NFG,NATIONAL FUEL GAS COMPANY,US,Utilities,BBB,5.0,3.7,8.9,6.0
+108083,NFLX,"NETFLIX, INC",US,Media & Entertainment,BB,2.9,10.0,4.6,2.3
+108336,NG,NATIONAL GRID ELECTRICITY TRANSMISSION PLC,GB,Utilities,AAA,8.9,8.4,5.6,7.7
+108337,NG,NOVAGOLD RESOURCES INC,CA,Metals and Mining - Precious Metals,A,6.5,2.9,4.8,7.0
+108338,NG,WESTERN POWER DISTRIBUTION (EAST MIDLANDS) PLC,GB,Utilities,AA,8.1,8.3,7.5,6.2
+108528,NI,NISOURCE INC,US,Utilities,AA,8.4,7.7,7.4,6.4
+108781,NJR,NEW JERSEY RESOURCES CORPORATION,US,Utilities,A,6.7,8.9,5.4,4.9
+108905,NKE,"NIKE, INC",US,"Textiles, Apparel & Luxury Goods",A,6.2,8.7,3.8,3.8
+109158,NKTR,NEKTAR THERAPEUTICS,US,Pharmaceuticals,BBB,4.4,2.2,4.3,3.0
+109346,NLOK,NORTONLIFELOCK INC,US,Software & Services,A,7.1,10.0,5.2,5.1
+109599,NLSN,NIELSEN HOLDINGS PLC,US,Professional Services,A,6.9,10.0,6.3,5.7
+109852,NNN,"NATIONAL RETAIL PROPERTIES, INC",US,Real Estate Management & Services,BB,3.2,3.0,3.3,6.2
+110105,NOC,NORTHROP GRUMMAN SYSTEMS CORPORATION,US,Aerospace & Defense,AA,8.2,2.8,6.6,6.4
+110106,NOC,Northrop Grumman Corporation,US,Aerospace & Defense,AA,8.2,3.2,5.7,6.1
+110611,NOV,NOV INC,US,Energy Equipment & Services,A,6.0,7.3,7.8,4.8
+110864,NOVA,SUNNOVA ENERGY INTERNATIONAL INC,US,Utilities,AA,8.1,8.7,4.0,7.1
+110865,NOVT,NOVANTA INC,US,"Electronic Equipment, Instruments & Components",AA,7.4,3.3,4.9,6.2
+111056,NOW,"SERVICENOW, INC",US,Software & Services,AA,8.3,6.2,6.2,5.3
+111309,NRG,"NRG ENERGY, INC",US,Utilities,BB,3.3,3.8,4.8,4.7
+111562,NRZ,NEW RESIDENTIAL INVESTMENT CORP,US,Asset Management & Custody Banks,B,1.5,6.7,2.7,4.2
+111623,NSC,NORFOLK SOUTHERN CORPORATION,US,Road & Rail Transport,A,6.4,5.7,4.2,5.4
+111876,NTAP,"NETAPP, INC",US,"Technology Hardware, Storage & Peripherals",A,6.7,4.7,4.4,5.7
+112129,NTNX,"NUTANIX, INC",US,Software & Services,BBB,5.7,4.5,4.7,4.8
+112382,NTRA,"NATERA, INC",US,Health Care Equipment & Supplies,BB,3.9,6.7,5.0,4.6
+112511,NTRS,NORTHERN TRUST CORPORATION,US,Asset Management & Custody Banks,AA,8.2,10.0,5.7,5.0
+112764,NUAN,"NUANCE COMMUNICATIONS, INC",US,Software & Services,A,7.1,5.1,5.3,6.4
+113017,NUE,NUCOR CORPORATION,US,Steel,BBB,5.5,4.3,5.2,4.7
+113270,NUVA,"NUVASIVE, INC",US,Health Care Equipment & Supplies,BBB,5.5,6.4,6.1,4.6
+113394,NVAX,"NOVAVAX, INC",US,Biotechnology,BBB,4.5,7.1,4.8,3.7
+113458,NVCR,NOVOCURE LIMITED,JE,Health Care Equipment & Supplies,A,5.8,6.4,5.4,5.7
+113711,NVDA,NVIDIA CORPORATION,US,Semiconductors & Semiconductor Equipment,AAA,9.1,5.4,7.6,5.6
+113964,NVR,"NVR, Inc",US,Real Estate Development & Diversified Activities,BBB,4.6,5.0,3.3,4.6
+114217,NVRO,NEVRO CORP,US,Health Care Equipment & Supplies,BBB,5.5,6.3,5.8,4.9
+114409,NVT,NVENT ELECTRIC PLC,GB,Electrical Equipment,BBB,4.4,3.5,5.6,6.1
+114533,NVTA,INVITAE CORPORATION,US,Biotechnology,BB,3.4,2.9,3.8,5.9
+114662,NWE,NORTHWESTERN CORPORATION,US,Utilities,A,6.7,6.0,4.0,7.2
+114725,NWL,NEWELL BRANDS INC,US,Household Durables,A,6.2,7.7,3.2,5.9
+114726,NWL,Netwealth Group Ltd,AU,Asset Management & Custody Banks,BB,3.5,7.0,3.3,6.4
+115231,NWSA,NEWS CORPORATION,US,Media & Entertainment,B,2.1,8.9,4.3,1.8
+115484,NXST,"NEXSTAR MEDIA GROUP, INC",US,Media & Entertainment,BB,4.0,8.0,5.7,3.0
+115737,NYCB,"NEW YORK COMMUNITY BANCORP, INC",US,Banks,BB,3.0,0.0,3.2,4.3
+115990,NYT,THE NEW YORK TIMES COMPANY,US,Media & Entertainment,BBB,5.4,7.3,4.3,5.2
+116243,O,REALTY INCOME CORPORATION,US,Real Estate Management & Services,BBB,5.0,4.7,6.0,5.3
+116496,OC,OWENS CORNING,US,Building Products,AA,7.7,5.9,7.2,5.4
+116749,ODFL,"OLD DOMINION FREIGHT LINE, INC",US,Road & Rail Transport,A,6.7,3.9,3.1,6.4
+117002,OGE,OGE ENERGY CORP,US,Utilities,A,7.0,6.6,4.4,6.4
+117003,OGE,OKLAHOMA GAS AND ELECTRIC COMPANY,US,Utilities,A,6.1,6.0,3.8,6.1
+117508,OGS,"ONE GAS, INC",US,Utilities,A,7.0,4.1,7.2,7.0
+117760,OHI,"OMEGA HEALTHCARE INVESTORS, INC",US,Real Estate Management & Services,B,2.1,4.7,1.9,6.3
+118013,OKE,"ONEOK PARTNERS, LP",US,"Oil & Gas Refining, Marketing, Transportation & Storage",AA,8.1,5.9,7.0,5.4
+118266,OKTA,"OKTA, INC",US,Software & Services,A,6.9,9.0,6.2,3.8
+118519,OLED,UNIVERSAL DISPLAY CORPORATION,US,Semiconductors & Semiconductor Equipment,A,7.0,8.3,3.9,4.4
+118772,OLLI,"OLLIES BARGAIN OUTLET HOLDINGS, INC",US,Retail - Consumer Discretionary,B,2.7,3.3,2.1,5.2
+119025,OMC,OMNICOM GROUP INC,US,Media & Entertainment,BB,3.7,10.0,4.1,3.6
+119278,OMCL,"OMNICELL, INC",US,Health Care Equipment & Supplies,BBB,4.5,8.3,4.8,5.3
+119342,OMF,"ONEMAIN HOLDINGS, INC",US,Consumer Finance,BB,3.3,7.0,4.8,5.5
+119595,ON,ON SEMICONDUCTOR CORPORATION,US,Semiconductors & Semiconductor Equipment,A,7.0,5.1,6.6,6.0
+119848,ONEM,"1LIFE HEALTHCARE, INC",US,Health Care Providers & Services,A,6.3,6.3,6.0,4.2
+119977,ORA,ORANGE SA,FR,Telecommunication Services,AA,7.6,10.0,6.6,4.7
+119978,ORA,"ORMAT TECHNOLOGIES, INC",US,Utilities,A,7.0,8.6,4.5,5.2
+119979,ORA,ORORA LIMITED,AU,Containers & Packaging,BBB,5.2,5.4,3.3,7.0
+120352,ORCL,ORACLE CORPORATION,US,Software & Services,BBB,5.7,7.7,5.1,3.2
+120605,ORI,OLD REPUBLIC INTERNATIONAL CORPORATION,US,Property & Casualty Insurance,B,2.1,2.5,3.3,4.3
+120606,ORI,ORICA LIMITED,AU,Commodity Chemicals,AA,8.4,5.2,4.5,7.3
+121111,ORLY,"OReilly Automotive, Inc",US,Retail - Consumer Discretionary,B,2.7,1.9,3.1,4.6
+121364,OSH,"OAK STREET HEALTH, INC",US,Health Care Providers & Services,BBB,4.7,5.1,5.1,4.7
+121429,OSK,OSHKOSH CORPORATION,US,Construction & Farm Machinery & Heavy Trucks,AA,8.2,3.5,7.2,6.4
+121430,OSK,Osisko Mining Inc,CA,Metals and Mining - Precious Metals,A,5.9,2.4,4.9,7.3
+121935,OTIS,OTIS WORLDWIDE CORPORATION,US,Industrial Machinery,BBB,5.4,4.9,2.1,6.9
+122064,OUT,OUTFRONT MEDIA INC,US,Media & Entertainment,BBB,5.2,8.7,3.7,5.6
+122125,PACB,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC",US,Health Care Equipment & Supplies,BB,3.7,6.5,4.2,5.2
+122126,PACW,PACWEST BANCORP,US,Banks,BB,2.9,0.8,3.4,4.7
+122187,PAG,PARAGON BANKING GROUP PLC,GB,Banks,AA,7.8,3.5,4.4,7.0
+122188,PAG,"PENSKE AUTOMOTIVE GROUP, INC",US,Retail - Consumer Discretionary,B,2.4,2.0,5.7,2.0
+122439,PANW,"PALO ALTO NETWORKS, INC",US,Software & Services,B,2.4,7.0,3.8,4.3
+122692,PAYC,"PAYCOM SOFTWARE, INC",US,Software & Services,A,7.1,4.7,5.7,4.4
+122945,PAYX,"PAYCHEX, INC",US,Software & Services,BBB,4.5,7.0,3.7,4.4
+123198,PB,"PROSPERITY BANCSHARES, INC",US,Banks,BB,3.3,0.8,3.4,4.2
+123451,PBCT,"PEOPLES UNITED FINANCIAL, INC",US,Banks,A,5.8,2.3,4.6,4.4
+123704,PCAR,PACCAR INC,US,Construction & Farm Machinery & Heavy Trucks,BBB,5.1,3.9,5.3,4.6
+123957,PCG,PG&E CORPORATION,US,Utilities,BB,4.2,4.5,7.4,7.5
+124210,PCTY,PAYLOCITY HOLDING CORPORATION,US,Software & Services,A,6.2,4.0,5.0,5.3
+124463,PEG,PSEG POWER LLC,US,Utilities,AA,8.1,8.3,4.9,5.3
+124464,PEG,PUBLIC SERVICE ELECTRIC AND GAS COMPANY,US,Utilities,A,6.7,7.6,2.7,5.3
+124969,PEGA,PEGASYSTEMS INC,US,Software & Services,BBB,5.5,4.4,4.1,5.8
+125222,PEN,"PENUMBRA, INC",US,Health Care Equipment & Supplies,AA,7.9,6.3,7.2,5.2
+125475,PENN,"PENN NATIONAL GAMING, INC",US,Casinos & Gaming,BB,3.7,5.7,3.4,5.7
+125604,PEP,"Pepsico, Inc",US,Beverages,AA,8.4,6.3,5.3,6.6
+125857,PFE,PFIZER INC,US,Pharmaceuticals,B,1.5,4.7,3.6,4.2
+126110,PFG,"PRINCIPAL FINANCIAL GROUP, INC",US,Life & Health Insurance,BBB,5.3,6.7,5.2,4.6
+126111,PFG,PROVIDENT FINANCIAL PLC,GB,Consumer Finance,BBB,5.7,10.0,3.0,7.2
+126616,PFGC,PERFORMANCE FOOD GROUP COMPANY,US,Retail - Food & Staples,A,6.8,2.1,4.4,6.5
+126869,PFSI,"PENNYMAC FINANCIAL SERVICES, INC",US,Banks,BBB,5.4,3.5,3.7,6.7
+126998,PG,THE PROCTER & GAMBLE COMPANY,US,Household & Personal Products,A,6.8,6.3,4.2,5.4
+127251,PGR,THE PROGRESSIVE CORPORATION,US,Property & Casualty Insurance,BBB,5.7,3.1,5.4,7.0
+127504,PH,PARKER-HANNIFIN CORPORATION,US,Industrial Machinery,BBB,4.3,4.3,2.4,5.8
+127757,PHM,"PHARMA MAR, SA",ES,Biotechnology,BB,4.1,3.5,4.3,5.5
+127758,PHM,"PULTEGROUP, INC",US,Real Estate Development & Diversified Activities,BBB,4.7,4.3,2.9,6.0
+128263,PII,POLARIS INC,US,Leisure Products,BB,4.2,4.9,2.8,7.2
+128516,PINC,"PREMIER, INC",US,Health Care Providers & Services,A,6.7,7.2,6.4,4.9
+128580,PINS,"PINTEREST, INC",US,Interactive Media & Services,B,2.7,6.2,2.4,4.1
+128709,PK,PARK HOTELS & RESORTS INC,US,Real Estate Management & Services,BB,3.7,7.4,2.9,4.2
+128770,PKG,PACKAGING CORPORATION OF AMERICA,US,Containers & Packaging,BB,3.9,4.7,5.1,5.2
+129023,PKI,PARKLAND CORPORATION,CA,"Oil & Gas Refining, Marketing, Transportation & Storage",AA,7.9,5.7,6.3,7.1
+129024,PKI,"PERKINELMER, INC",US,Health Care Equipment & Supplies,BBB,4.5,10.0,3.1,5.8
+129529,PLD,PROLOGIS,US,Real Estate Management & Services,A,6.6,7.1,6.2,5.1
+129782,PLNT,"PLANET FITNESS, INC",US,Hotels & Travel,A,6.6,5.0,5.5,5.4
+130035,PLUG,PLUG POWER INC,US,Electrical Equipment,A,6.7,6.4,8.2,2.9
+130100,PM,Philip Morris International Inc,US,Tobacco,BBB,4.8,3.1,3.0,4.9
+130353,PNC,"THE PNC FINANCIAL SERVICES GROUP, INC",US,Banks,A,5.9,7.6,4.0,6.3
+130606,PNFP,"PINNACLE FINANCIAL PARTNERS, INC",US,Banks,BBB,5.4,0.4,4.1,5.8
+130731,PNM,"PNM RESOURCES, INC",US,Utilities,BBB,5.6,5.5,4.3,6.5
+130855,PNW,PINNACLE WEST CAPITAL CORPORATION,US,Utilities,AA,7.9,7.2,7.7,5.7
+131108,PODD,INSULET CORPORATION,US,Health Care Equipment & Supplies,AA,8.4,6.5,6.9,6.3
+131361,POOL,POOL CORPORATION,US,Retail - Consumer Discretionary,AA,7.3,1.3,6.9,5.5
+131614,POR,PORTLAND GENERAL ELECTRIC COMPANY,US,Utilities,A,6.8,6.6,4.0,6.4
+131802,POST,Oesterreichische Post Aktiengesellschaft,AT,Air Freight & Logistics,AAA,9.5,8.3,6.5,6.0
+131803,POST,"Post Holdings, Inc",US,Food Products,BB,4.1,2.0,5.0,4.8
+132308,POWI,"POWER INTEGRATIONS, INC",US,Semiconductors & Semiconductor Equipment,BBB,5.5,6.4,4.2,5.7
+132436,PPC,PEET LIMITED,AU,Real Estate Development & Diversified Activities,A,5.9,3.5,4.7,7.2
+132437,PPC,PILGRIMS PRIDE CORPORATION,US,Food Products,BB,3.0,1.8,4.7,3.8
+132438,PPC,PUBLIC POWER CORPORATION SA,GR,Utilities,BBB,4.9,5.6,3.0,4.2
+133195,PPG,"PPG INDUSTRIES, INC",US,Specialty Chemicals,AA,7.6,7.9,2.0,4.3
+133448,PPL,KENTUCKY UTILITIES COMPANY,US,Utilities,BB,3.7,4.4,4.4,6.8
+133449,PPL,LOUISVILLE GAS AND ELECTRIC COMPANY,US,Utilities,BBB,4.6,4.7,4.5,6.2
+133450,PPL,PEMBINA PIPELINE CORPORATION,CA,"Oil & Gas Refining, Marketing, Transportation & Storage",A,6.3,4.1,6.0,6.1
+133451,PPL,"PPL CAPITAL FUNDING, INC",US,Utilities,BBB,5.4,4.8,6.7,6.8
+133452,PPL,PPL ELECTRIC UTILITIES CORPORATION,US,Utilities,A,6.3,6.7,4.4,6.2
+133453,PPL,WESTERN POWER DISTRIBUTION (SOUTH WALES) PLC,GB,Utilities,AA,8.1,8.3,7.5,6.2
+134966,PRGO,PERRIGO COMPANY,US,Pharmaceuticals,A,6.4,3.3,3.7,6.0
+134967,PRGO,PERRIGO COMPANY PUBLIC LIMITED COMPANY,IE,Pharmaceuticals,A,6.4,3.3,3.7,6.0
+135472,PRI,"PRIMERICA, INC",US,Life & Health Insurance,BBB,5.5,6.2,3.7,6.1
+135725,PRLB,"Proto Labs, Inc",US,Industrial Machinery,A,6.0,3.1,4.7,7.0
+135789,PRU,PERSEUS MINING LIMITED,AU,Metals and Mining - Precious Metals,BBB,5.7,2.4,4.4,7.4
+135790,PRU,"PRUDENTIAL FINANCIAL, INC",US,Life & Health Insurance,AA,8.2,8.2,5.3,6.0
+135791,PRU,PRUDENTIAL PUBLIC LIMITED COMPANY,GB,Life & Health Insurance,AA,8.5,7.5,5.1,6.5
+136548,PSA,PUBLIC STORAGE,US,Real Estate Management & Services,BB,3.9,4.5,3.8,5.8
+136801,PSB,"PS BUSINESS PARKS, INC",US,Real Estate Management & Services,B,1.6,4.2,1.3,5.0
+136989,PSN,PARSONS CORPORATION,US,Aerospace & Defense,B,2.8,2.1,1.8,4.4
+136990,PSN,PERSIMMON PUBLIC LIMITED COMPANY,GB,Real Estate Development & Diversified Activities,A,7.1,4.4,4.6,7.7
+137365,PSTG,"PURE STORAGE, INC",US,"Technology Hardware, Storage & Peripherals",BBB,4.5,4.1,4.2,5.0
+137618,PSX,PHILLIPS 66,US,"Oil & Gas Refining, Marketing, Transportation & Storage",BBB,5.6,4.5,6.8,4.8
+137871,PTC,PTC INC,US,Software & Services,A,7.1,4.7,5.5,6.1
+138124,PTCT,"PTC THERAPEUTICS, INC",US,Biotechnology,B,2.1,3.2,4.3,3.8
+138251,PTON,"PELOTON INTERACTIVE, INC",US,Leisure Products,CCC,0.0,1.0,1.4,3.6
+138380,PVH,PVH CORP,US,"Textiles, Apparel & Luxury Goods",AA,7.9,6.3,5.8,5.4
+138633,PWR,"QUANTA SERVICES, INC",US,Construction & Engineering,AA,8.1,3.8,5.4,6.7
+138886,PXD,PIONEER NATURAL RESOURCES COMPANY,US,Oil & Gas Exploration & Production,BBB,5.7,3.4,6.4,4.9
+139139,PYPL,"PAYPAL HOLDINGS, INC",US,Software & Services,A,7.1,10.0,4.9,5.0
+139392,QCOM,QUALCOMM INCORPORATED,US,Semiconductors & Semiconductor Equipment,BB,3.6,3.9,7.4,5.8
+139645,QDEL,QUIDEL CORPORATION,US,Health Care Equipment & Supplies,A,5.8,6.0,4.5,6.5
+139837,QGEN,Qiagen NV,NL,Health Care Equipment & Supplies,A,6.3,10.0,6.0,5.8
+140090,QLYS,Qualys Inc,US,Software & Services,BBB,4.3,6.7,2.9,5.4
+140282,QRTEA,LIBERTY INTERACTIVE LLC,US,"Broadcasting, Cable & Satellite",B,2.4,3.9,6.2,3.0
+140283,QRTEA,"QURATE RETAIL, INC",US,Retail - Consumer Discretionary,B,2.4,3.9,6.2,3.0
+140538,QRVO,"QORVO, INC",US,Semiconductors & Semiconductor Equipment,A,6.1,5.6,4.0,6.5
+140791,QTWO,"Q2 HOLDINGS, INC",US,Software & Services,BB,4.0,4.3,5.0,5.1
+141044,RAMP,"LIVERAMP HOLDINGS, INC",US,Software & Services,BB,2.9,3.8,2.7,5.5
+141045,RARE,Ultragenyx Pharmaceutical Inc,US,Biotechnology,A,6.2,5.3,4.8,5.4
+141237,RRX,Regal Rexnord Corporation,US,Electrical Equipment,A,6.3,4.2,6.0,6.0
+141429,RCL,ROYAL CARIBBEAN CRUISES LTD,US,Hotels & Travel,BB,4.0,5.0,4.2,3.0
+141682,RDFN,REDFIN CORPORATION,US,Real Estate Management & Services,B,1.6,1.9,4.7,5.2
+141811,RDN,RADIAN GROUP INC,US,Banks,BBB,5.7,5.3,3.4,6.0
+141935,REG,REGENCY CENTERS CORPORATION,US,Real Estate Management & Services,BBB,5.0,5.9,5.6,4.9
+142188,REGN,"REGENERON PHARMACEUTICALS, INC",US,Biotechnology,BBB,5.5,6.3,6.0,3.2
+142441,RETA,"REATA PHARMACEUTICALS, INC",US,Pharmaceuticals,BBB,5.0,8.1,6.1,4.7
+142630,REXR,"REXFORD INDUSTRIAL REALTY, INC",US,Real Estate Management & Services,BB,3.9,5.5,2.9,5.8
+142883,REYN,REYNOLDS CONSUMER PRODUCTS INC,US,Household & Personal Products,CCC,0.5,2.6,1.9,3.6
+143075,RF,EURAZEO SE,FR,Diversified Financials,AA,8.4,8.8,4.7,6.7
+143076,RF,REGIONS FINANCIAL CORPORATION,US,Banks,AA,8.4,6.4,4.4,5.9
+143581,RGA,"REINSURANCE GROUP OF AMERICA, INCORPORATED",US,Multi-Line Insurance & Brokerage,BBB,5.0,5.3,4.7,6.6
+143834,RGEN,REPLIGEN CORPORATION,US,Health Care Equipment & Supplies,BBB,5.5,5.8,4.4,5.8
+144087,RGLD,"ROYAL GOLD, INC",US,Metals and Mining - Precious Metals,AA,7.6,4.2,5.9,6.3
+144340,RH,RH,US,Retail - Consumer Discretionary,BB,3.7,3.0,4.0,4.8
+144530,RHI,ROBERT HALF INTERNATIONAL INC,US,Professional Services,AA,8.5,9.0,6.8,6.3
+144783,RHP,"RYMAN HOSPITALITY PROPERTIES, INC",US,Real Estate Management & Services,BB,3.4,5.6,3.5,5.4
+144844,RIG,Transocean Ltd,CH,Energy Equipment & Services,BB,3.2,4.6,5.5,5.3
+144905,RJF,"RAYMOND JAMES FINANCIAL, INC",US,Investment Banking & Brokerage,BBB,5.3,3.5,3.2,5.9
+145158,RL,RALPH LAUREN CORPORATION,US,"Textiles, Apparel & Luxury Goods",BBB,5.7,7.1,4.3,3.7
+145411,RLAY,Relay Therapeutics Inc,US,Biotechnology,B,2.4,5.1,3.9,3.1
+145475,RLI,RLI CORP,US,Property & Casualty Insurance,B,2.4,0.7,3.1,6.0
+145728,RMD,RESMED INC,US,Health Care Equipment & Supplies,AA,7.4,8.9,6.4,5.2
+145981,RNG,"RINGCENTRAL, INC",US,Software & Services,A,7.1,5.9,6.0,5.2
+146234,RNR,RENAISSANCERE HOLDINGS LTD,BM,Multi-Line Insurance & Brokerage,BB,3.7,3.0,3.2,6.8
+146487,ROK,"ROCKWELL AUTOMATION, INC",US,Electrical Equipment,A,6.7,6.6,6.1,4.5
+146740,ROKU,"ROKU, INC",US,Media & Entertainment,BB,3.7,6.6,3.3,4.9
+146993,ROL,"ROLLINS, INC",US,Commercial Services & Supplies,A,6.3,4.7,5.9,4.6
+147246,ROLL,RBC BEARINGS INCORPORATED,US,Industrial Machinery,CCC,0.9,1.5,4.8,3.9
+147434,ROP,"ROPER TECHNOLOGIES, INC",US,Industrial Conglomerates,A,7.0,4.8,4.2,5.3
+147687,ROST,"ROSS STORES, INC",US,Retail - Consumer Discretionary,BBB,5.1,3.8,3.8,5.9
+147940,RPD,"RAPID7, INC",US,Software & Services,A,6.7,7.0,4.9,5.1
+147941,RPM,RPM INTERNATIONAL INC,US,Specialty Chemicals,BB,3.9,4.1,2.5,5.3
+148194,RS,RELIANCE STEEL & ALUMINUM CO,US,Steel,A,7.1,4.2,3.6,6.8
+148447,RSG,"REPUBLIC SERVICES, INC",US,Commercial Services & Supplies,A,6.5,5.6,5.4,6.3
+148448,RSG,RESOLUTE MINING LIMITED,AU,Metals and Mining - Precious Metals,A,6.8,3.6,5.0,6.9
+148953,RTN,THE RESTAURANT GROUP PLC,GB,Restaurants,BBB,4.3,2.2,3.7,6.7
+149017,RTX,RAYTHEON COMPANY,US,Aerospace & Defense,BBB,5.5,4.9,3.9,5.1
+149270,RUN,SUNRUN INC,US,Utilities,A,6.5,8.1,5.5,4.8
+149335,ZWS,ZURN WATER SOLUTIONS CORPORATION,US,Building Products,A,6.0,2.8,6.7,6.2
+149588,RXT,"RACKSPACE TECHNOLOGY GLOBAL, INC",US,Software & Services,A,6.2,4.8,4.9,5.3
+149652,RYN,RAYONIER INC,US,Paper & Forest Products,BB,3.7,8.2,3.4,6.2
+149840,SABR,SABRE CORPORATION,US,Software & Services,BB,2.9,8.0,3.1,4.1
+149901,SAFE,SAFEHOLD INC,US,Real Estate Management & Services,B,1.8,4.6,2.4,4.7
+149902,SAFE,SAFESTORE HOLDINGS PLC,GB,Real Estate Management & Services,AA,7.9,5.1,5.0,8.0
+150027,SAFM,"SANDERSON FARMS, INC",US,Food Products,B,2.7,1.0,4.4,4.4
+150151,SAGE,"SAGE THERAPEUTICS, INC",US,Biotechnology,B,1.7,5.1,4.2,3.2
+150152,SAIA,"SAIA, INC",US,Road & Rail Transport,A,6.9,3.9,3.4,6.7
+150153,SAIC,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,US,Professional Services,BB,4.1,10.0,2.8,7.5
+150406,SAIL,"SAILPOINT TECHNOLOGIES HOLDINGS, INC",US,Software & Services,BB,3.6,7.0,3.2,4.4
+150471,SAM,"THE BOSTON BEER COMPANY, INC",US,Beverages,B,2.3,0.9,4.4,5.7
+150724,SBAC,SBA Communications Corporation,US,Telecommunication Services,A,7.1,6.2,7.6,4.7
+150977,SBNY,SIGNATURE BANK,US,Banks,B,2.4,1.0,3.8,4.8
+151230,SBRA,"SABRA HEALTH CARE REIT, INC",US,Real Estate Management & Services,BB,3.7,4.8,3.1,5.7
+151291,SBUX,STARBUCKS CORPORATION,US,Restaurants,BBB,4.6,5.2,4.0,6.2
+151544,SCCO,SOUTHERN COPPER CORPORATION,US,Metals and Mining - Non-Precious Metals,CCC,0.4,0.8,2.7,2.0
+151797,SCHW,SCHWAB CAPITAL TRUST I,US,Investment Banking & Brokerage,BBB,4.6,10.0,3.5,3.6
+152050,SCI,SERVICE CORPORATION INTERNATIONAL,US,Diversified Consumer Services,BBB,5.2,5.9,4.8,4.7
+152303,SDGR,Schrodinger Inc,US,Health Care Equipment & Supplies,B,2.1,6.7,3.7,4.5
+152431,SEB,SEABOARD CORPORATION,US,Food Products,B,2.2,1.5,3.7,4.1
+152619,SEDG,"SOLAREDGE TECHNOLOGIES, INC",IL,Semiconductors & Semiconductor Equipment,BBB,5.5,8.5,2.5,5.5
+152872,SEE,SEALED AIR CORPORATION,US,Containers & Packaging,BBB,5.2,6.0,2.3,5.5
+153125,SEIC,SEI INVESTMENTS COMPANY,US,Asset Management & Custody Banks,B,2.8,9.0,3.6,3.9
+153378,SF,STIFEL FINANCIAL CORP,US,Investment Banking & Brokerage,B,2.6,3.1,1.1,5.2
+153379,SF,Stillfront Group AB (publ),SE,Media & Entertainment,BBB,5.4,7.3,2.6,7.2
+153756,SFIX,"STITCH FIX, INC",US,Retail - Consumer Discretionary,BB,3.4,1.9,4.2,4.3
+153757,SGEN,SEAGEN INC,US,Biotechnology,BB,3.4,5.1,4.2,4.2
+154010,SHW,THE SHERWIN-WILLIAMS COMPANY,US,Specialty Chemicals,A,5.9,6.6,3.3,4.4
+154263,SIGI,"SELECTIVE INSURANCE GROUP, INC",US,Property & Casualty Insurance,BBB,5.7,1.2,4.7,6.7
+154387,SIRI,SIRIUS XM HOLDINGS INC,US,Media & Entertainment,BBB,5.6,6.0,6.1,4.2
+154388,SIRI,Sansiri Public Company Limited,TH,Real Estate Development & Diversified Activities,BBB,5.6,4.2,4.6,4.7
+154893,SITE,"SITEONE LANDSCAPE SUPPLY, INC",US,Trading Companies & Distributors,AA,8.3,7.0,6.0,5.9
+155085,SIVB,SVB FINANCIAL GROUP,US,Banks,A,7.1,0.0,4.0,6.7
+155338,SIX,SIX FLAGS ENTERTAINMENT CORPORATION,US,Hotels & Travel,BBB,5.4,3.9,4.0,5.5
+155399,SJM,THE J M SMUCKER COMPANY,US,Food Products,A,6.5,4.1,5.2,4.7
+155652,SKX,"SKECHERS USA, INC",US,"Textiles, Apparel & Luxury Goods",B,1.9,1.6,3.1,3.4
+155905,SLAB,SILICON LABORATORIES INC,US,Semiconductors & Semiconductor Equipment,BBB,5.5,4.7,5.8,5.1
+156158,SLB,Schlumberger Finance BV,NL,Energy Equipment & Services,AA,7.6,8.3,6.0,6.0
+156159,SLB,Schlumberger Investment SA,LU,Energy Equipment & Services,AA,7.6,8.3,6.0,6.0
+156160,SLB,Schlumberger NV,US,Energy Equipment & Services,AA,7.6,8.3,6.0,6.0
+156917,SLG,SL GREEN REALTY CORP,US,Real Estate Management & Services,BBB,4.7,8.5,5.8,2.6
+157105,SLGN,SILGAN HOLDINGS INC,US,Containers & Packaging,BB,3.5,4.6,4.6,5.1
+157296,SLM,SANLAM LIMITED,ZA,Life & Health Insurance,AA,8.2,5.7,5.4,5.7
+157297,SLM,SLM CORPORATION,US,Consumer Finance,A,7.14,8.0,4.3,7.2
+157546,SMAR,SMARTSHEET INC,US,Software & Services,A,6.4,4.9,5.3,5.1
+157799,SMG,THE SCOTTS MIRACLE-GRO COMPANY,US,Specialty Chemicals,BB,3.9,3.1,4.1,4.7
+158052,SMTC,SEMTECH CORPORATION,US,Semiconductors & Semiconductor Equipment,BB,4.2,4.3,3.7,5.6
+158181,SNA,SNAP-ON INCORPORATED,US,Industrial Machinery,A,6.3,4.8,5.1,5.6
+158434,SNDR,"SCHNEIDER NATIONAL, INC",US,Road & Rail Transport,A,6.9,4.5,4.7,5.1
+158686,SNPS,"SYNOPSYS, INC",US,Software & Services,A,7.1,5.4,6.5,4.7
+158939,SNV,SYNOVUS FINANCIAL CORP,US,Banks,A,7.0,2.3,4.3,7.0
+159064,SNX,TD SYNNEX CORPORATION,US,"Electronic Equipment, Instruments & Components",BBB,4.8,3.5,5.5,3.0
+159065,SNX,TECH DATA CORPORATION,US,"Electronic Equipment, Instruments & Components",AA,7.7,3.2,4.9,3.5
+159568,SO,MISSISSIPPI POWER COMPANY,US,Utilities,A,6.5,6.8,6.9,5.1
+159821,SON,"SONAE - SGPS, SA",PT,Retail - Food & Staples,A,7.0,3.2,5.3,5.8
+159822,SON,SONOCO PRODUCTS COMPANY,US,Containers & Packaging,BBB,4.8,4.4,4.2,7.4
+160327,SPCE,"VIRGIN GALACTIC HOLDINGS, INC",US,Aerospace & Defense,A,6.5,3.4,4.5,5.7
+160456,SPG,"SIMON PROPERTY GROUP, INC",US,Real Estate Management & Services,BB,3.4,6.4,3.9,4.8
+160457,SPG,STRIDE PROPERTY LIMITED,NZ,Real Estate Management & Services,BB,4.2,5.1,1.8,6.4
+160458,SPG,SUPER GROUP LIMITED,ZA,Retail - Consumer Discretionary,BB,3.2,3.7,1.9,5.6
+161215,SPGI,S&P GLOBAL INC,US,Diversified Financials,AA,7.3,10.0,4.4,5.6
+161468,SPLK,SPLUNK INC,US,Software & Services,AA,7.9,5.8,5.7,5.5
+161721,SPR,"SPIRIT AEROSYSTEMS HOLDINGS, INC",US,Aerospace & Defense,BB,3.0,2.5,3.7,4.2
+161845,SR,Spire Alabama Inc,US,Utilities,BBB,5.6,5.1,6.4,5.0
+162033,SRC,"SPIRIT REALTY CAPITAL, INC",US,Real Estate Management & Services,B,2.1,3.1,3.1,5.5
+162286,SRCL,"STERICYCLE, INC",US,Commercial Services & Supplies,B,1.8,1.9,4.5,6.7
+162539,SRE,ONCOR ELECTRIC DELIVERY COMPANY LLC,US,Utilities,BBB,4.6,6.4,1.9,6.4
+162540,SRE,SAN DIEGO GAS & ELECTRIC COMPANY,US,Utilities,A,7.0,7.1,5.5,5.9
+162541,SRE,SEMPRA ENERGY,US,Utilities,A,7.0,6.9,6.2,5.9
+162542,SRE,Sirius Real Estate Limited,GG,Real Estate Management & Services,AA,8.2,4.0,6.3,8.6
+163551,SRPT,"SAREPTA THERAPEUTICS, INC",US,Biotechnology,BBB,4.5,3.1,3.4,6.3
+163804,SSB,SouthState Corporation,US,Banks,BB,4.2,0.9,3.6,5.6
+163869,SSD,"SIMPSON MANUFACTURING CO, INC",US,Building Products,BB,4.2,2.7,6.3,6.1
+164060,SSNC,"SS&C TECHNOLOGIES HOLDINGS, INC",US,Software & Services,BB,4.0,3.9,3.5,4.5
+164313,ST,SENSATA TECHNOLOGIES HOLDING PLC,US,Electrical Equipment,BBB,5.2,4.7,3.1,6.6
+164314,ST,Sensata Technologies BV,NL,Electrical Equipment,BBB,5.2,4.7,3.1,6.6
+164819,STAG,"STAG INDUSTRIAL, INC",US,Real Estate Management & Services,BB,3.2,4.0,2.9,6.2
+165072,STE,STERIS CORPORATION,US,Health Care Equipment & Supplies,AA,8.2,8.7,6.9,5.5
+165073,STE,STERIS PUBLIC LIMITED COMPANY,IE,Health Care Equipment & Supplies,AA,8.2,8.7,6.9,5.5
+165578,STLD,"STEEL DYNAMICS, INC",US,Steel,A,6.6,4.4,4.6,5.5
+165831,STOR,STORE CAPITAL CORPORATION,US,Real Estate Management & Services,BB,3.7,3.5,3.0,6.7
+166084,STRA,"STRATEGIC EDUCATION, INC",US,Diversified Consumer Services,BB,3.4,6.0,3.2,4.9
+166211,STT,STATE STREET CORPORATION,US,Asset Management & Custody Banks,A,6.7,10.0,5.4,4.8
+166464,STWD,"STARWOOD PROPERTY TRUST, INC",US,Asset Management & Custody Banks,BBB,5.3,7.0,4.4,5.5
+166717,STX,SEAGATE TECHNOLOGY HOLDINGS PUBLIC LIMITED COMPANY,IE,"Technology Hardware, Storage & Peripherals",A,7.0,3.6,5.2,6.0
+166718,STX,Strike Energy Ltd,AU,Oil & Gas Exploration & Production,BBB,4.3,1.3,4.2,7.4
+167223,SUI,"SUN COMMUNITIES, INC",US,Real Estate Management & Services,BB,3.2,4.2,2.8,5.3
+167476,SVC,SERVICE PROPERTIES TRUST,US,Real Estate Management & Services,CCC,0.0,3.8,3.1,1.3
+167537,SWI,SolarWinds Corp,US,Software & Services,B,1.9,6.7,2.2,4.2
+167790,SWK,"STANLEY BLACK & DECKER, INC",US,Industrial Machinery,BBB,4.3,4.5,3.7,4.8
+168043,SWKS,"SKYWORKS SOLUTIONS, INC",US,Semiconductors & Semiconductor Equipment,A,6.4,5.5,7.4,4.3
+168296,SWX,SOUTHWEST GAS CORPORATION,US,Utilities,A,6.5,6.0,6.0,4.9
+168548,SYF,SYNCHRONY FINANCIAL,US,Consumer Finance,A,7.14,9.7,5.3,6.4
+168801,SYK,STRYKER CORPORATION,US,Health Care Equipment & Supplies,B,2.4,10.0,3.3,5.1
+169054,SYNH,"SYNEOS HEALTH, INC",US,Health Care Equipment & Supplies,BB,3.4,7.0,4.1,4.5
+169307,SYY,SYSCO CORPORATION,US,Retail - Food & Staples,BBB,5.1,3.6,5.0,4.8
+169560,T,"LEAP WIRELESS INTERNATIONAL, INC",US,Telecommunication Services,BB,4.1,10.0,4.6,4.0
+169561,T,TELUS Corporation,CA,Telecommunication Services,AA,7.8,10.0,5.8,6.4
+170066,TAP,MOLSON COORS BEVERAGE COMPANY,US,Beverages,AAA,8.8,6.6,7.1,5.0
+170319,TDG,TRANSDIGM GROUP INCORPORATED,US,Aerospace & Defense,BB,3.8,2.5,3.0,3.9
+170572,TDOC,"TELADOC HEALTH, INC",US,Health Care Equipment & Supplies,A,6.1,6.7,6.0,5.7
+170825,TDY,TELEDYNE TECHNOLOGIES INCORPORATED,US,"Electronic Equipment, Instruments & Components",A,6.3,4.0,3.7,5.7
+171078,TEL,PLDT Inc,PH,Telecommunication Services,BB,3.2,7.0,7.0,0.7
+171079,TEL,TE Connectivity Ltd,CH,"Electronic Equipment, Instruments & Components",A,5.8,5.3,5.1,5.5
+171080,TEL,TELENOR ASA,NO,Telecommunication Services,AAA,10.0,10.0,8.8,5.4
+171837,TENB,"TENABLE HOLDINGS, INC",US,Software & Services,BBB,4.8,8.0,3.9,4.8
+171902,TER,"TERADYNE, INC",US,Semiconductors & Semiconductor Equipment,BB,3.6,2.9,4.5,5.4
+172155,TFC,Truist Bank,US,Banks,A,6.8,4.1,4.3,6.1
+172408,TFSL,TFS FINANCIAL CORPORATION,US,Banks,BBB,5.0,3.5,4.2,3.3
+172661,TFX,TELEFLEX INCORPORATED,US,Health Care Equipment & Supplies,BBB,5.3,7.6,5.1,5.5
+172914,TGT,TARGET CORPORATION,US,Retail - Consumer Discretionary,AA,8.5,6.5,6.0,5.7
+173167,TGTX,"TG THERAPEUTICS, INC",US,Biotechnology,BB,3.8,5.1,4.2,3.3
+173168,THC,TENET HEALTHCARE CORPORATION,US,Health Care Providers & Services,BBB,4.9,6.5,3.6,6.6
+173229,THG,"THE HANOVER INSURANCE GROUP, INC",US,Property & Casualty Insurance,BBB,5.5,2.8,4.1,6.3
+173481,THO,"THOR INDUSTRIES, INC",US,Automobiles,A,6.9,4.4,2.8,6.5
+173671,TJX,"THE TJX COMPANIES, INC",US,Retail - Consumer Discretionary,A,6.1,3.8,4.9,5.5
+173924,TKR,THE TIMKEN COMPANY,US,Industrial Machinery,BBB,5.7,4.2,5.9,5.2
+174114,TMO,"PPD, INC",US,Health Care Equipment & Supplies,BB,3.9,5.7,4.5,4.4
+174115,TMO,THERMO FISHER SCIENTIFIC INC,US,Health Care Equipment & Supplies,BBB,5.0,10.0,3.9,5.4
+174620,TMUS,"SPRINT COMMUNICATIONS, INC",US,Telecommunication Services,BB,4.1,9.2,4.1,5.0
+174873,TMX,"TERMINIX GLOBAL HOLDINGS, INC",US,Diversified Consumer Services,AA,8.3,6.0,4.9,5.6
+175126,TNDM,"TANDEM DIABETES CARE, INC",US,Health Care Equipment & Supplies,AA,7.9,6.2,6.9,6.1
+175318,TNET,TELENET GROUP HOLDING NV,BE,Media & Entertainment,A,6.7,10.0,5.9,4.4
+175319,TNET,"TRINET GROUP, INC",US,Professional Services,AA,8.2,6.7,8.0,5.1
+175824,TOL,"TOLL BROTHERS, INC",US,Real Estate Development & Diversified Activities,B,2.7,3.9,1.7,4.7
+176014,TPR,"TAPESTRY, INC",US,"Textiles, Apparel & Luxury Goods",BBB,5.3,3.8,4.7,5.8
+176267,TPTX,Turning Point Therapeutics Inc,US,Biotechnology,BB,3.1,7.5,3.9,5.2
+176332,TPX,"TEMPUR SEALY INTERNATIONAL, INC",US,Household Durables,BB,3.4,3.2,3.3,5.7
+176522,TREE,"LENDINGTREE, INC",US,Consumer Finance,B,1.7,6.7,3.5,4.6
+176711,TREX,"TREX COMPANY, INC",US,Building Products,A,6.8,5.0,7.2,6.0
+176964,TRGP,"TARGA PIPELINE PARTNERS, LP",US,"Oil & Gas Refining, Marketing, Transportation & Storage",BB,4.2,2.7,5.3,5.2
+177090,TRIP,"TRIPADVISOR, INC",US,Interactive Media & Services,BB,3.5,5.5,3.5,3.7
+177151,TRMB,TRIMBLE INC,US,"Electronic Equipment, Instruments & Components",AA,8.4,3.8,6.1,5.3
+177404,TRNO,TERRENO REALTY CORPORATION,US,Real Estate Management & Services,B,2.1,4.5,1.9,5.2
+177595,TROW,"T ROWE PRICE GROUP, INC",US,Asset Management & Custody Banks,AA,8.2,10.0,5.0,7.0
+177848,TRU,TRANSUNION,US,Professional Services,BBB,5.6,8.0,5.4,6.4
+177849,TRU,TRUWORTHS INTERNATIONAL LIMITED,ZA,Retail - Consumer Discretionary,BBB,4.9,3.1,4.5,5.2
+178354,TRUP,"TRUPANION, INC",US,Life & Health Insurance,BB,4.2,3.3,3.4,6.0
+178355,TRV,"The Travelers Companies, Inc",US,Property & Casualty Insurance,A,6.7,2.6,5.0,6.5
+178608,TSCO,TESCO PLC,GB,Retail - Food & Staples,AA,7.3,8.0,4.0,6.8
+178609,TSCO,TRACTOR SUPPLY COMPANY,US,Retail - Consumer Discretionary,AA,7.6,2.5,6.7,5.8
+179114,TSN,"ADVANCEPIERRE FOODS HOLDINGS, INC",US,Food Products,BBB,5.7,4.1,4.3,5.1
+179367,TTC,THE TORO COMPANY,US,Construction & Farm Machinery & Heavy Trucks,AA,7.7,4.6,6.5,5.0
+179620,TTD,"THE TRADE DESK, INC",US,Software & Services,B,2.1,4.2,2.1,4.8
+179873,TTEK,"TETRA TECH, INC",US,Commercial Services & Supplies,BBB,5.3,10.0,5.6,4.9
+180126,TTWO,"TAKE-TWO INTERACTIVE SOFTWARE, INC",US,Media & Entertainment,A,6.3,6.7,4.8,4.9
+180379,TW,Tradeweb Markets Inc,US,Diversified Financials,B,2.2,9.0,4.4,4.2
+180508,TWLO,TWILIO INC,US,Software & Services,A,6.7,6.7,6.0,4.1
+180761,TWO,TWO HARBORS INVESTMENT CORP,US,Asset Management & Custody Banks,B,2.6,6.7,2.5,4.8
+180822,TWST,Twist Bioscience Corp,US,Health Care Equipment & Supplies,BB,3.4,5.9,5.4,3.2
+180823,TWTR,"TWITTER, INC",US,Interactive Media & Services,BB,3.2,5.5,3.4,4.8
+181076,TXG,10X Genomics Inc,US,Health Care Equipment & Supplies,BB,3.4,6.1,3.9,5.1
+181077,TXG,TOREX GOLD RESOURCES INC,CA,Metals and Mining - Precious Metals,A,7.0,1.3,6.9,7.6
+181334,TXN,TEXAS INSTRUMENTS INCORPORATED,US,Semiconductors & Semiconductor Equipment,AAA,9.4,7.1,8.1,5.1
+181587,TXRH,"TEXAS ROADHOUSE, INC",US,Restaurants,B,2.5,2.0,3.2,6.3
+181840,TXT,TEXTRON FINANCIAL CORPORATION,US,Diversified Financials,BBB,5.0,3.6,3.5,5.5
+181841,TXT,TEXTRON INC,US,Aerospace & Defense,BBB,5.0,3.6,3.5,5.5
+182346,TYL,"TYLER TECHNOLOGIES, INC",US,Software & Services,A,6.7,5.2,5.4,4.9
+182599,U,Unity Software Inc,US,Software & Services,BB,3.8,3.8,3.8,4.3
+182600,UAA,"UNDER ARMOUR, INC",US,"Textiles, Apparel & Luxury Goods",BB,3.0,3.3,3.9,2.8
+182853,UAL,"UNITED AIRLINES HOLDINGS, INC",US,Airlines,B,2.5,3.6,2.6,3.9
+183106,UBER,"UBER TECHNOLOGIES, INC",US,Road & Rail Transport,A,6.9,5.1,3.0,6.7
+183359,UBSI,"UNITED BANKSHARES, INC",US,Banks,BB,3.0,1.5,3.3,4.9
+183484,UDR,"UDR, INC",US,Real Estate Management & Services,BB,2.9,6.0,2.0,5.2
+183737,UFPI,"UFP INDUSTRIES, INC",US,Building Products,BB,3.5,3.0,5.0,6.1
+183801,UGI,UGI CORPORATION,US,"Oil & Gas Refining, Marketing, Transportation & Storage",AA,8.1,5.4,5.8,7.0
+184054,UHS,"UNIVERSAL HEALTH SERVICES, INC",US,Health Care Providers & Services,CCC,0.7,6.5,2.6,3.9
+184307,ULTA,"ULTA BEAUTY, INC",US,Retail - Consumer Discretionary,A,6.6,1.7,5.1,6.2
+184560,UMPQ,UMPQUA HOLDINGS CORPORATION,US,Banks,BBB,5.4,1.0,3.3,6.3
+184621,UNF,UNIFIRST CORPORATION,US,Commercial Services & Supplies,BBB,4.3,7.4,4.6,4.7
+184873,UNH,UNITEDHEALTH GROUP INCORPORATED,US,Health Care Providers & Services,BB,4.2,10.0,4.9,4.7
+185126,UNM,UNUM GROUP,US,Life & Health Insurance,BB,3.7,6.3,3.5,4.6
+185379,UNP,UNION PACIFIC CORPORATION,US,Road & Rail Transport,BBB,5.6,5.6,3.0,6.0
+185632,UNVR,PT Unilever Indonesia Tbk,ID,Household & Personal Products,AA,7.8,8.0,5.0,4.4
+185633,UNVR,UNIVAR SOLUTIONS INC,US,Trading Companies & Distributors,BB,4.0,2.4,5.9,4.5
+185754,UPS,"UNITED PARCEL SERVICE, INC",US,Air Freight & Logistics,A,7.0,9.5,3.1,5.4
+186007,URI,"UNITED RENTALS (NORTH AMERICA), INC",US,Trading Companies & Distributors,A,6.0,3.3,6.7,5.8
+186260,USB,US BANCORP,US,Banks,BBB,5.1,5.8,3.6,4.9
+186513,USFD,US FOODS HOLDING CORP,US,Retail - Food & Staples,A,5.9,2.9,5.1,5.4
+186766,USM,UNITED STATES CELLULAR CORPORATION,US,Telecommunication Services,BBB,5.1,6.2,5.8,4.1
+186829,UTHR,UNITED THERAPEUTICS CORPORATION,US,Biotechnology,BB,3.8,2.4,4.9,5.6
+187082,V,VISA INC,US,Software & Services,A,6.9,9.0,5.3,4.6
+187335,VAC,MARRIOTT VACATIONS WORLDWIDE CORPORATION,US,Hotels & Travel,BBB,5.4,3.8,5.0,4.9
+187525,VEEV,VEEVA SYSTEMS INC,US,Health Care Equipment & Supplies,BB,3.9,7.0,4.5,5.1
+187778,VER,VERBUND AG,AT,Utilities,AAA,9.3,9.2,6.0,5.6
+187779,VER,"VEREIT, INC",US,Real Estate Management & Services,B,2.6,3.9,2.9,6.0
+188284,VFC,VF CORPORATION,US,"Textiles, Apparel & Luxury Goods",AA,8.3,6.6,5.5,5.9
+188537,VIAV,VIAVI SOLUTIONS INC,US,"Technology Hardware, Storage & Peripherals",BBB,5.2,2.6,3.9,4.5
+188600,VICI,VICI PROPERTIES INC,US,Real Estate Management & Services,BBB,5.3,5.5,4.0,6.1
+188853,VIR,Vir Biotechnology Inc,US,Biotechnology,A,6.2,6.6,4.8,4.8
+189044,VLO,VALERO ENERGY CORPORATION,US,"Oil & Gas Refining, Marketing, Transportation & Storage",A,6.7,4.3,8.3,5.9
+189297,VLY,VALLEY NATIONAL BANCORP,US,Banks,BBB,5.4,0.7,3.8,5.1
+189421,VMC,VULCAN MATERIALS COMPANY,US,Construction Materials,BBB,5.1,4.0,3.6,4.3
+189674,VMW,"VMWARE, INC",US,Software & Services,AA,7.9,6.7,6.1,4.7
+189927,VNO,VORNADO REALTY LP,US,Real Estate Management & Services,CCC,1.1,7.3,0.0,3.4
+190180,VNT,VONTIER CORPORATION,US,"Electronic Equipment, Instruments & Components",A,6.5,2.4,5.4,5.4
+190181,VNT,Vinythai Public Company Limited,TH,Commodity Chemicals,BBB,4.6,4.1,2.1,5.4
+190182,VOYA,"VOYA FINANCIAL, INC",US,Diversified Financials,A,6.2,6.8,4.1,6.9
+190435,VRM,"VROOM, INC",US,Retail - Consumer Discretionary,BBB,5.6,1.9,4.4,6.6
+190500,VRNS,"VARONIS SYSTEMS, INC",US,Software & Services,BBB,4.8,6.7,4.0,4.9
+190565,VRNT,VERINT SYSTEMS INC,US,Software & Services,BB,3.3,4.7,6.1,5.2
+190629,VRSK,"VERISK ANALYTICS, INC",US,Professional Services,BBB,5.4,10.0,5.9,5.5
+190882,VRSN,"VERISIGN, INC",US,Software & Services,A,6.7,8.0,4.6,5.3
+191135,VRT,VERTIV HOLDINGS CO,US,Electrical Equipment,BBB,4.4,5.6,3.4,5.0
+191136,VRT,VIRTUS HEALTH LIMITED,AU,Health Care Providers & Services,AA,7.7,5.5,5.6,5.1
+191393,VRTX,VERTEX PHARMACEUTICALS INCORPORATED,US,Biotechnology,A,6.9,6.2,5.3,5.0
+191646,VSAT,"VIASAT, INC",US,"Technology Hardware, Storage & Peripherals",BB,3.9,2.4,4.5,4.2
+191707,VST,ILLINOIS POWER GENERATING COMPANY,US,Utilities,BB,3.7,3.0,5.5,6.6
+191960,VTR,"VENTAS, INC",US,Real Estate Management & Services,AA,8.2,7.7,5.7,6.2
+192213,VVV,VALVOLINE INC,US,Commodity Chemicals,A,6.2,5.1,2.8,6.0
+192402,VZ,VERIZON COMMUNICATIONS INC,US,Telecommunication Services,AA,7.3,10.0,5.6,6.1
+192655,W,WAYFAIR INC,US,Retail - Consumer Discretionary,BB,2.9,0.7,5.3,4.3
+192908,WAB,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORPORATION,US,Construction & Farm Machinery & Heavy Trucks,BB,4.1,4.1,4.0,4.5
+193161,WAL,WESTERN ALLIANCE BANCORPORATION,US,Banks,BBB,5.4,0.8,3.1,5.2
+193350,WAT,WATERS CORPORATION,US,Health Care Equipment & Supplies,AAA,9.2,10.0,6.8,6.7
+193603,WBA,Farmacias Ahumada SpA,CL,Retail - Food & Staples,BBB,5.7,9.6,3.6,5.7
+193604,WBA,WALGREEN CO,US,Retail - Food & Staples,BBB,5.7,9.6,3.6,5.7
+194109,WBC,WESTPAC BANKING CORPORATION,AU,Banks,A,6.8,8.5,4.0,5.2
+194211,WBS,WEBSTER FINANCIAL CORPORATION,US,Banks,A,7.1,3.2,4.6,6.9
+194272,WDAY,"WORKDAY, INC",US,Software & Services,A,7.1,5.1,6.9,3.6
+194525,WDC,WESTERN DIGITAL CORPORATION,US,"Technology Hardware, Storage & Peripherals",BBB,5.71,4.4,4.6,5.2
+194778,WDFC,WD-40 COMPANY,US,Household & Personal Products,B,1.7,1.3,2.6,5.2
+194841,WEC,"WEC ENERGY GROUP, INC",US,Utilities,A,6.5,6.4,5.0,6.0
+194842,WEC,WISCONSIN PUBLIC SERVICE CORPORATION,US,Utilities,A,6.3,5.8,5.1,6.2
+195347,WELL,WELL Health Technologies Corp,CA,Health Care Providers & Services,A,6.3,6.4,5.4,4.7
+195348,WELL,WELLTOWER INC,US,Real Estate Management & Services,AAA,8.7,6.6,6.8,6.8
+195853,WEN,THE WENDYS COMPANY,US,Restaurants,BBB,5.7,6.3,4.2,4.7
+196106,WERN,"WERNER ENTERPRISES, INC",US,Road & Rail Transport,AA,7.9,4.6,4.2,6.3
+196169,WEX,WEX INC,US,Software & Services,AA,8.3,7.0,6.4,5.6
+196422,WFC,WELLS FARGO & COMPANY,US,Banks,BB,4.25,9.0,2.6,3.0
+196675,WH,"WYNDHAM HOTELS & RESORTS, INC",US,Hotels & Travel,BBB,5.7,4.9,4.3,6.5
+196928,WHR,WAREHOUSE REIT PLC,GB,Real Estate Management & Services,B,2.1,3.1,2.0,5.8
+196929,WHR,WHIRLPOOL CORPORATION,US,Household Durables,BBB,4.5,4.7,3.6,5.7
+197434,WING,WINGSTOP INC,US,Restaurants,BBB,5.4,4.7,5.1,5.9
+197562,WIX,WIXCOM LTD,IL,Software & Services,AA,7.9,6.7,4.7,7.0
+197563,WIX,Wickes Group PLC,GB,Retail - Consumer Discretionary,AA,7.3,7.8,3.0,7.9
+198068,WK,WORKIVA INC,US,Software & Services,AA,8.3,5.1,5.9,6.0
+198069,WLK,WESTLAKE CORPORATION,US,Commodity Chemicals,CCC,1.1,3.1,0.4,3.4
+198322,WM,WALLBRIDGE MINING COMPANY LIMITED,CA,Metals and Mining - Non-Precious Metals,BB,3.5,2.0,2.4,5.4
+198323,WM,"WASTE MANAGEMENT, INC",US,Commercial Services & Supplies,BBB,5.5,6.0,5.3,5.4
+198828,WMB,NORTHWEST PIPELINE LLC,US,"Oil & Gas Refining, Marketing, Transportation & Storage",BBB,5.1,4.7,5.5,4.5
+198829,WMB,"TRANSCONTINENTAL GAS PIPE LINE COMPANY, LLC",US,"Oil & Gas Refining, Marketing, Transportation & Storage",BBB,5.3,5.0,4.2,5.5
+199334,WMGI,"WRIGHT MEDICAL GROUP, INC",US,Health Care Equipment & Supplies,B,2.4,10.0,3.3,5.1
+199552,WMS,"ADVANCED DRAINAGE SYSTEMS, INC",US,Building Products,AA,7.7,5.2,7.1,6.1
+199681,WMT,WALMART INC,US,Retail - Food & Staples,BBB,4.9,99.0,4.1,3.3
+199934,WPC,WP CAREY INC,US,Real Estate Management & Services,BBB,5.5,5.2,4.7,6.3
+200187,WRB,W R BERKLEY CORPORATION,US,Property & Casualty Insurance,BB,4.2,2.4,4.4,4.4
+200440,WRK,Smurfit-Stone Container Corporation,US,Containers & Packaging,BBB,5.7,5.2,3.5,7.3
+200693,WSC,"MOBILE MINI, INC",US,Commercial Services & Supplies,A,5.9,6.5,7.1,5.4
+200758,WSM,"WILLIAMS-SONOMA, INC",US,Retail - Consumer Discretionary,AA,8.5,7.4,5.2,6.6
+201011,WSO,"WATSCO, INC",US,Trading Companies & Distributors,BB,4.0,2.5,6.2,5.2
+201264,WST,"WEST PHARMACEUTICAL SERVICES, INC",US,Health Care Equipment & Supplies,AAA,8.9,10.0,7.3,6.2
+201517,WTFC,WINTRUST FINANCIAL CORPORATION,US,Banks,BBB,5.4,0.3,3.2,6.7
+201578,WTM,"WHITE MOUNTAINS INSURANCE GROUP, LTD",US,Property & Casualty Insurance,BB,3.0,3.9,2.6,5.4
+201641,WTS,"WATTS WATER TECHNOLOGIES, INC",US,Industrial Machinery,AA,8.3,5.0,5.9,6.4
+201704,WU,THE WESTERN UNION COMPANY,US,Software & Services,AA,7.4,6.7,5.0,6.6
+201957,WWD,"WOODWARD, INC",US,Aerospace & Defense,BBB,5.4,5.1,4.2,4.1
+202210,WWE,"WORLD WRESTLING ENTERTAINMENT, INC",US,Media & Entertainment,BBB,5.6,6.7,5.6,4.4
+202398,WY,WEYERHAEUSER COMPANY,US,Paper & Forest Products,A,7.1,5.2,2.3,7.6
+202651,WYNN,"WYNN LAS VEGAS, LLC",US,Casinos & Gaming,BB,4.0,4.7,3.9,4.5
+202904,XEL,Northern States Power Company (Minnesota),US,Utilities,AA,7.4,6.8,6.7,6.7
+202905,XEL,Northern States Power Company (Wisconsin),US,Utilities,AA,7.9,7.1,6.0,6.7
+202906,XEL,PUBLIC SERVICE COMPANY OF COLORADO,US,Utilities,AA,7.2,6.4,6.8,6.7
+202907,XEL,SOUTHWESTERN PUBLIC SERVICE COMPANY,US,Utilities,AA,7.4,6.7,6.7,6.4
+203916,XOM,XTO ENERGY INC,US,Integrated Oil & Gas,BBB,4.6,4.1,6.1,4.4
+204169,XPO,"XPO CNW, INC",US,Air Freight & Logistics,BBB,5.7,8.8,3.4,5.2
+204170,XPO,"XPO LOGISTICS, INC",US,Road & Rail Transport,BBB,5.7,8.8,3.4,5.2
+204675,XRX,XEROX HOLDINGS CORPORATION,US,"Technology Hardware, Storage & Peripherals",AA,8.5,5.2,6.3,5.2
+204864,XYL,XYLEM INC,US,Industrial Machinery,AAA,8.9,6.6,5.6,6.0
+205117,Y,"TRANSATLANTIC HOLDINGS, INC",US,Multi-Line Insurance & Brokerage,BB,4.2,2.5,4.4,5.9
+205370,YETI,"YETI HOLDINGS, INC",US,Leisure Products,AA,7.4,3.7,6.6,5.7
+205499,YUM,"YUM! Brands, Inc",US,Restaurants,BBB,5.0,4.5,3.5,6.1
+205752,ZAYO,"ZAYO GROUP, LLC",US,Telecommunication Services,BBB,4.9,7.9,5.5,5.1
+205797,ZBH,"ZIMMER BIOMET HOLDINGS, INC",US,Health Care Equipment & Supplies,BB,3.9,10.0,5.2,5.0
+206050,ZBRA,ZEBRA TECHNOLOGIES CORPORATION,US,"Electronic Equipment, Instruments & Components",AA,7.4,3.2,6.1,5.0
+206303,ZEN,"ZENDESK, INC",US,Software & Services,A,6.7,4.2,5.4,5.8
+206556,ZION,"ZIONS BANCORPORATION, NATIONAL ASSOCIATION",US,Banks,BBB,5.1,2.1,4.0,5.1
+206809,ZM,"ZOOM VIDEO COMMUNICATIONS, INC",US,Software & Services,BB,3.8,4.5,3.3,4.7
+206938,ZNGA,ZYNGA INC,US,Media & Entertainment,BBB,4.6,6.7,3.7,5.2
+207191,ZS,"ZSCALER, INC",US,Software & Services,A,6.0,6.7,4.5,5.3
+207444,ZTS,ZOETIS INC,US,Pharmaceuticals,AA,7.9,4.7,5.7,5.5
